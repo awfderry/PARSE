@@ -1,0 +1,6 @@
+atom3d
+blitzgsea
+fastdist
+scikit-learn
+matplotlib
+numba

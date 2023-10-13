@@ -1,0 +1,1150 @@
+site,pdb,locs,source,description
+M-CSA 1,1b73A,"[7, 8, 178, 70, 180]",M-CSA,glutamate racemase
+M-CSA 1,1b73AA,[147],M-CSA,glutamate racemase
+M-CSA 10,1mkbA,"[79, 70, 76, 80]",M-CSA,3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+M-CSA 10,1mkbB,[84],M-CSA,3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+M-CSA 100,1a4sA,"[166, 263, 477, 297]",M-CSA,betaine-aldehyde dehydrogenase
+M-CSA 1000,1rtdE,"[185, 110, 186, 111, 220]",M-CSA,HIV-1 reverse transcriptase
+M-CSA 1001,5m4gA,"[287, 276, 452, 412, 370, 377, 398, 255]",M-CSA,Prolidase (Xaa-Pro dipeptidase)
+M-CSA 1002,3aieA,"[477, 515, 588]",M-CSA,Glucansucrases (GTF-SI)
+M-CSA 1003,3r6vA,"[188, 187]",M-CSA,Aspartate Ammonia Lyase
+M-CSA 1003,3r6vB,"[142, 140, 141, 101]",M-CSA,Aspartate Ammonia Lyase
+M-CSA 1003,3r6vC,"[318, 324, 319]",M-CSA,Aspartate Ammonia Lyase
+M-CSA 1004,3lkkA,"[5, 14, 205, 50, 144, 163, 45, 8]",M-CSA,isopentenyl phosphate kinase (IPK)
+M-CSA 1005,1hnnA,"[219, 185]",M-CSA,Phenylethanolamine N-methyltransferase
+M-CSA 101,5fitA,"[94, 98, 83, 96]",M-CSA,bis(5'-adenosyl)-triphosphatase
+M-CSA 102,1fcbA,"[254, 282, 373]",M-CSA,L-lactate dehydrogenase (cytochrome)
+M-CSA 103,1vaoA,"[422, 503, 504, 108, 170]",M-CSA,vanillyl-alcohol oxidase
+M-CSA 104,1c9uA,"[228, 269, 271, 273, 144, 163, 309]",M-CSA,quinoprotein glucose dehydrogenase
+M-CSA 105,1vlbA,[869],M-CSA,aldehyde dehydrogenase (FAD-independent)
+M-CSA 106,1w85B,"[59, 128]",M-CSA,pyruvate dehydrogenase (acetyl-transferring)
+M-CSA 106,1w85C,"[267, 271, 281]",M-CSA,pyruvate dehydrogenase (acetyl-transferring)
+M-CSA 107,1n62B,"[763, 240, 388, 387]",M-CSA,aerobic carbon monoxide dehydrogenase
+M-CSA 108,1ps9A,"[252, 214, 339, 164, 166]",M-CSA,"2,4-dienoyl-CoA reductase (NADPH)"
+M-CSA 109,1d3gA,"[284, 217, 145, 218, 149, 255, 215]",M-CSA,dihydroorotate oxidase (class II)
+M-CSA 11,1qumD,"[37, 72, 109, 145, 179, 216, 261, 231, 182, 229, 69]",M-CSA,deoxyribonuclease IV (phage-T4-induced)
+M-CSA 110,1c0pA,"[1335, 1339, 1054, 1054, 1335]",M-CSA,D-amino-acid oxidase
+M-CSA 111,1ofdA,"[227, 31, 1, 228, 903, 969, 972, 978, 207, 1]",M-CSA,glutamate synthase (ferredoxin)
+M-CSA 112,3dfrA,"[21, 26, 116, 94, 4, 19, 27, 30, 54]",M-CSA,dihydrofolate reductase (bacterial)
+M-CSA 113,2gb0B,"[265, 269, 48, 348, 315, 49, 45]",M-CSA,sarcosine oxidase
+M-CSA 114,2tmdA,"[30, 169, 172, 267]",M-CSA,trimethylamine dehydrogenase
+M-CSA 115,1w1oA,"[105, 169, 288]",M-CSA,cytokinin dehydrogenase
+M-CSA 116,1hzzB,"[235, 138, 127, 135, 132]",M-CSA,NAD(P)+ transhydrogenase (AB-specific)
+M-CSA 116,1hzzC,[132],M-CSA,NAD(P)+ transhydrogenase (AB-specific)
+M-CSA 117,1amoA,"[457, 630, 677, 675]",M-CSA,NADPH-hemoprotein reductase
+M-CSA 118,1wrrA,"[10, 57]",M-CSA,urate oxidase
+M-CSA 118,1wrrAA,"[256, 176, 228]",M-CSA,urate oxidase
+M-CSA 119,2c3mA,"[996, 31, 64, 114]",M-CSA,pyruvate:ferredoxin oxidoreducatse
+M-CSA 12,1othA,"[168, 171, 141, 263, 303, 330]",M-CSA,ornithine carbamoyltransferase
+M-CSA 120,1zp3A,"[26, 223, 28, 120, 273]",M-CSA,methylenetetrahydrofolate reductase [NAD(P)H]
+M-CSA 121,1soxA,"[185, 40, 65, 138, 322]",M-CSA,sulfite oxidase
+M-CSA 122,1fvaA,"[218, 150, 103, 72, 115, 155, 227]",M-CSA,protein-methionine-S-oxide reductase (MsrA)
+M-CSA 123,1jnrA,"[398, 234, 74, 361, 265, 449, 141]",M-CSA,adenylyl-sulfate reductase
+M-CSA 123,1jnrB,[48],M-CSA,adenylyl-sulfate reductase
+M-CSA 124,1v54A,"[126, 61, 91, 156, 157, 240, 242, 244, 291, 255, 290, 438, 316, 319]",M-CSA,cytochrome-c oxidase (AA3 type)
+M-CSA 125,1bt3A,"[274, 244, 118, 240, 261, 88, 109]",M-CSA,catechol oxidase
+M-CSA 126,2frvF,"[463, 486, 530, 533, 18, 65, 68, 72]",M-CSA,cytochrome-c3 hydrogenase
+M-CSA 127,1hfeB,"[156, 159, 178, 198, 237, 240, 245, 382]",M-CSA,ferredoxin hydrogenase
+M-CSA 128,1ba3A,"[218, 343, 529, 343, 443, 245]",M-CSA,Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+M-CSA 129,1os7B,"[270, 99, 101, 255]",M-CSA,taurine dioxygenase
+M-CSA 13,2bbkA,[66],M-CSA,amine dehydrogenase
+M-CSA 13,2bbkB,"[76, 57, 119, 122, 32, 108]",M-CSA,amine dehydrogenase
+M-CSA 130,1ndoA,[104],M-CSA,"naphthalene 1,2-dioxygenase"
+M-CSA 130,1ndoE,"[205, 208, 213, 362]",M-CSA,"naphthalene 1,2-dioxygenase"
+M-CSA 131,1docA,"[201, 293, 72, 385, 297]",M-CSA,4-hydroxybenzoate 3-monooxygenase
+M-CSA 132,1lucA,"[106, 113, 227, 44, 45]",M-CSA,alkanal monooxygenase (FMN-linked)
+M-CSA 133,1yrcA,"[251, 252, 357, 358, 359, 186]",M-CSA,camphor 5-monooxygenase
+M-CSA 134,2tohA,"[336, 331, 395, 376]",M-CSA,tyrosine 3-monooxygenase
+M-CSA 135,1sdwA,"[107, 108, 170, 172, 244, 314, 242]",M-CSA,peptidylglycine monooxygenase
+M-CSA 136,1afrA,"[196, 229, 62, 146, 199, 228, 232, 105, 143]",M-CSA,acyl-[acyl-carrier-protein] desaturase
+M-CSA 137,1unbA,[74],M-CSA,deacetoxycephalosporin-C synthase
+M-CSA 138,2jcwA,"[71, 83, 80, 120, 63, 143, 46, 48]",M-CSA,superoxide dismutase
+M-CSA 139,1v97A,"[802, 880, 1261]",M-CSA,xanthine dehydrogenase (mammalian)
+M-CSA 14,1vncA,"[360, 402, 404, 490, 496, 403, 353]",M-CSA,chloride peroxidase (vanadate dependent)
+M-CSA 140,1l1lA,"[119, 408, 736, 731, 410, 419, 406]",M-CSA,ribonucleoside-triphosphate reductase (class II)
+M-CSA 141,1diiA,"[367, 380, 384, 167, 177, 286, 436, 473, 474, 512]",M-CSA,4-cresol dehydrogenase (hydroxylating)
+M-CSA 141,1diiB,"[649, 650]",M-CSA,4-cresol dehydrogenase (hydroxylating)
+M-CSA 142,1e6eA,"[55, 159, 376, 377]",M-CSA,ferredoxin-NADP+ reductase (adrenodoxin-type)
+M-CSA 143,1ljlA,"[14, 16, 63, 65, 13, 36, 10, 11, 12, 13, 105, 82, 89, 17, 15, 16]",M-CSA,arsenate reductase
+M-CSA 144,1g8kE,"[99, 238, 24, 98]",M-CSA,arsenite oxidase
+M-CSA 144,1g8kF,"[62, 81]",M-CSA,arsenite oxidase
+M-CSA 145,1odmA,"[270, 211, 214, 216]",M-CSA,isopenicillin-N synthase
+M-CSA 146,4v4eA,"[144, 404, 174]",M-CSA,pyrogallol hydroxytransferase
+M-CSA 147,1ls3A,"[226, 229, 200, 235]",M-CSA,serine hydroxymethyltransferase
+M-CSA 147,1ls3B,"[57, 55]",M-CSA,serine hydroxymethyltransferase
+M-CSA 148,1onrA,"[178, 17, 96, 132, 156]",M-CSA,transaldolase (type I)
+M-CSA 149,1ggtA,"[314, 314, 373, 396, 560, 279]",M-CSA,protein-glutamine gamma-glutamyltransferase (eukaryotic)
+M-CSA 15,1znbA,"[103, 181, 193, 99, 101, 223, 162, 184]",M-CSA,beta-lactamase (Class B1)
+M-CSA 150,1ndpB,"[119, 122, 133, 16, 56]",M-CSA,nucleoside-diphosphate kinase
+M-CSA 151,1q0nA,"[82, 95, 97, 92]",M-CSA,2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase
+M-CSA 152,1f80A,[62],M-CSA,holo-[acyl-carrier-protein] synthase
+M-CSA 152,1f80B,[105],M-CSA,holo-[acyl-carrier-protein] synthase
+M-CSA 152,1f80E,[35],M-CSA,holo-[acyl-carrier-protein] synthase
+M-CSA 153,1rhsA,"[250, 251, 252, 249, 274, 186, 248, 247]",M-CSA,thiosulfate sulfurtransferase (eukaryotic)
+M-CSA 154,1hy3A,"[47, 107, 137]",M-CSA,estrone sulfotransferase
+M-CSA 155,1t4cA,"[140, 17, 169]",M-CSA,formyl-CoA transferase
+M-CSA 155,1t4cB,"[260, 261]",M-CSA,formyl-CoA transferase
+M-CSA 156,1mroA,[147],M-CSA,coenzyme-B sulfoethylthiotransferase
+M-CSA 156,1mroD,"[333, 445, 481]",M-CSA,coenzyme-B sulfoethylthiotransferase
+M-CSA 156,1mroE,[367],M-CSA,coenzyme-B sulfoethylthiotransferase
+M-CSA 157,1qh5A,"[58, 134, 54, 56, 59, 110, 173]",M-CSA,hydroxyacylglutathione hydrolase
+M-CSA 158,1aukA,"[282, 150, 302, 29, 73, 123, 125, 69, 229, 281, 30]",M-CSA,cerebroside-sulfatase
+M-CSA 159,1hzyA,"[169, 230, 57, 55, 201, 233, 254, 301]",M-CSA,aryldialkylphosphatase
+M-CSA 16,1bc2A,"[90, 180, 86, 149, 88]",M-CSA,beta-lactamase (Class B1)
+M-CSA 160,1akoA,"[258, 153, 229, 7, 34, 259, 151]",M-CSA,exodeoxyribonuclease III
+M-CSA 161,1en7A,"[62, 40, 43, 65, 41]",M-CSA,crossover junction endodeoxyribonuclease
+M-CSA 161,1en7B,[105],M-CSA,crossover junction endodeoxyribonuclease
+M-CSA 162,1vasC,"[2, 22, 26, 23]",M-CSA,deoxyribonuclease (pyrimidine dimer)
+M-CSA 163,1rddA,"[10, 48, 134, 11, 124, 70]",M-CSA,ribonuclease HI
+M-CSA 164,1ruvA,"[41, 12, 119, 121, 120]",M-CSA,ribonuclease 1
+M-CSA 165,2snsA,"[40, 21, 41, 87, 43, 35]",M-CSA,micrococcal nuclease
+M-CSA 166,1hs6A,"[299, 295, 296, 271, 383, 375, 318]",M-CSA,leukotriene-A4 hydrolase
+M-CSA 167,1lokA,"[256, 151, 117, 179, 97, 152]",M-CSA,bacterial leucyl aminopeptidase
+M-CSA 168,1itqA,"[125, 198, 152, 219, 22, 288, 20]",M-CSA,membrane dipeptidase
+M-CSA 169,1pfqA,"[631, 547, 630, 708, 740]",M-CSA,dipeptidyl-peptidase IV
+M-CSA 17,1rr6A,"[64, 33, 220, 88, 257, 116, 33, 219, 86, 89, 243]",M-CSA,purine-nucleoside phosphorylase
+M-CSA 170,1o8aA,"[387, 354, 411, 353, 513, 523, 384, 383]",M-CSA,peptidyl-dipeptidase A
+M-CSA 171,1m4lA,"[127, 69, 72, 196, 270]",M-CSA,carboxypeptidase A
+M-CSA 172,1onwA,"[162, 201, 230, 68, 285, 70]",M-CSA,isoaspartyl dipeptidase
+M-CSA 173,1pq5A,"[193, 195, 192, 56, 99, 195, 194]",M-CSA,trypsin
+M-CSA 174,9papA,"[175, 19, 25, 159, 25]",M-CSA,papain
+M-CSA 175,1a30A,"[25, 26, 27]",M-CSA,HIV-1 retropepsin
+M-CSA 175,1a30B,"[27, 26, 25]",M-CSA,HIV-1 retropepsin
+M-CSA 176,1keiA,"[146, 157, 142, 226, 231, 143, 166]",M-CSA,thermolysin
+M-CSA 177,1rypI,"[47, 19, 1, 33, 1, 17, 129, 166, 169]",M-CSA,proteasome endopeptidase complex
+M-CSA 178,1bmfC,[373],M-CSA,"H+-transporting two-sector ATPase (F-type, mitochondrial)"
+M-CSA 178,1bmfD,"[162, 188, 189]",M-CSA,"H+-transporting two-sector ATPase (F-type, mitochondrial)"
+M-CSA 179,1q3sA,"[393, 64, 97, 98]",M-CSA,chaperonin ATPase
+M-CSA 18,1jdwA,"[170, 254, 407, 303, 305]",M-CSA,glycine amidinotransferase
+M-CSA 180,1hyoA,"[253, 257, 364, 199, 233, 237, 240, 253, 126, 133, 201]",M-CSA,fumarylacetoacetase
+M-CSA 181,1rqlA,"[14, 49, 56, 160, 186, 45, 12, 53]",M-CSA,phosphonoacetaldehyde hydrolase
+M-CSA 182,1mumA,"[115, 43, 113, 158, 188, 123, 58, 210, 85, 87]",M-CSA,methylisocitrate lyase
+M-CSA 183,1dnpA,"[341, 382, 274, 277, 306, 359]",M-CSA,deoxyribodipyrimidine photo-lyase
+M-CSA 184,1ru4A,"[273, 268]",M-CSA,pectate lyase L (polysaccharide lyase 9 family)
+M-CSA 185,1lwyC,"[249, 268]",M-CSA,8-oxoguanine DNA-glycosylase (type-1 OGG1 family)
+M-CSA 186,1pwhA,"[303, 222, 41]",M-CSA,L-serine ammonia-lyase
+M-CSA 187,1mnsA,"[247, 166, 164, 270, 297, 317, 195, 197, 221]",M-CSA,mandelate racemase
+M-CSA 188,1xelA,"[124, 149, 153]",M-CSA,UDP-glucose 4-epimerase
+M-CSA 189,1m9cA,"[55, 63, 60, 102, 113, 122, 126]",M-CSA,peptidylprolyl isomerase (cyclophilin-type)
+M-CSA 19,1dl2A,"[132, 275, 136, 435]",M-CSA,"mannosyl-oligosaccharide 1,2-alpha-mannosidase"
+M-CSA 19,1x9dA,"[330, 334, 463, 599]",M-CSA,"mannosyl-oligosaccharide 1,2-alpha-mannosidase"
+M-CSA 190,1nfsA,"[32, 161, 67, 104, 116, 25, 69, 114, 87]",M-CSA,isopentenyl-diphosphate delta-isomerase (type 1)
+M-CSA 191,1mekA,"[37, 36, 38, 39]",M-CSA,protein disulfide-isomerase (eukaryotic)
+M-CSA 192,1z9hA,"[112, 107, 110, 113]",M-CSA,prostaglandin-E synthase
+M-CSA 193,1f2vA,[43],M-CSA,precorrin-8X methylmutase
+M-CSA 194,1p5dA,"[20, 109, 118, 108, 244, 329, 247, 242, 246]",M-CSA,phosphomannomutase/ phosphoglucomutase
+M-CSA 195,2gsaA,"[273, 245, 150]",M-CSA,"glutamate-1-semialdehyde 2,1-aminomutase"
+M-CSA 196,1eyqA,"[36, 97, 106, 48]",M-CSA,chalcone isomerase
+M-CSA 197,2ts1A,"[48, 194, 230, 233, 234, 173, 40, 45, 82, 86]",M-CSA,tyrosine-tRNA ligase
+M-CSA 198,1v25A,"[444, 439, 184, 328]",M-CSA,long-chain-fatty-acid-CoA ligase
+M-CSA 199,1gsaA,"[210, 225, 160, 125, 233, 273, 281, 283]",M-CSA,glutathione synthase (prokaryotic)
+M-CSA 2,1btlA,"[70, 73, 130, 166, 234, 237, 70]",M-CSA,beta-lactamase (Class A)
+M-CSA 20,1qjdA,"[504, 505, 544, 381, 365, 378, 402]",M-CSA,fumarate reductase (quinol)
+M-CSA 200,1kqpA,"[50, 162]",M-CSA,NAD+ synthase
+M-CSA 201,1xnyA,"[183, 182]",M-CSA,propionyl-CoA carboxylase
+M-CSA 201,1xnyB,"[419, 420]",M-CSA,propionyl-CoA carboxylase
+M-CSA 202,1a0iA,"[238, 34, 240]",M-CSA,DNA ligase (ATP)
+M-CSA 203,1dpxA,"[48, 50, 46, 59, 52, 35]",M-CSA,lysozyme (glycosyl hydrolase 22 family)
+M-CSA 205,1gpbA,"[377, 680, 377, 568, 569, 574, 676]",M-CSA,Glycogen phosphorylase
+M-CSA 206,1o08A,"[1009, 1010, 1115, 1145, 1114, 1169, 1008, 1010, 1016, 1045, 1170]",M-CSA,beta-phosphoglucomutase
+M-CSA 207,1kc7A,"[337, 455, 764, 831, 851, 103, 92, 22, 101]",M-CSA,"pyruvate, phosphate dikinase"
+M-CSA 208,1ezvC,"[272, 228, 202, 229, 206]",M-CSA,ubiquinol-cytochrome-c reductase
+M-CSA 208,1ezvEA,[181],M-CSA,ubiquinol-cytochrome-c reductase
+M-CSA 209,1lijA,"[318, 136]",M-CSA,adenosine kinase
+M-CSA 21,1do8A,"[165, 183, 421, 112, 278, 279, 256, 255]",M-CSA,malate dehydrogenase (oxaloacetate-decarboxylating)
+M-CSA 210,1m6kA,"[215, 160, 67, 115, 120, 67, 70]",M-CSA,beta-lactamase (Class D)
+M-CSA 211,1idtA,"[14, 74, 165]",M-CSA,oxygen insensitive NAD(P)H nitroreductase
+M-CSA 212,1n2cA,"[195, 62, 65, 96]",M-CSA,nitrogenase
+M-CSA 212,1n2cB,"[157, 153]",M-CSA,nitrogenase
+M-CSA 212,1n2cE,"[10, 129]",M-CSA,nitrogenase
+M-CSA 212,1n2cF,"[41, 15]",M-CSA,nitrogenase
+M-CSA 213,1l6gA,"[219, 166, 39, 136]",M-CSA,alanine racemase
+M-CSA 213,1l6gB,"[311, 265, 313]",M-CSA,alanine racemase
+M-CSA 214,1ecfA,"[1, 102, 101, 1, 27, 258]",M-CSA,amidophosphoribosyltransferase
+M-CSA 215,1pvdA,"[444, 471, 473, 477, 413]",M-CSA,pyruvate decarboxylase
+M-CSA 215,1pvdB,"[28, 51, 114, 115]",M-CSA,pyruvate decarboxylase
+M-CSA 216,1ca2A,"[199, 106, 64, 94, 96, 119]",M-CSA,carbonate dehydratase (alpha class)
+M-CSA 217,1sc9A,"[11, 235, 236, 207, 80, 81]",M-CSA,(S)-hydroxynitrile lyase
+M-CSA 218,1hplA,"[153, 152, 176, 263, 77]",M-CSA,triacylglycerol lipase (pancreatic)
+M-CSA 219,1trkA,"[30, 263]",M-CSA,transketolase
+M-CSA 219,1trkB,"[418, 481]",M-CSA,transketolase
+M-CSA 219,4kxvA,"[258, 244]",M-CSA,transketolase
+M-CSA 22,1b6bA,"[97, 168, 111, 122, 124]",M-CSA,aralkylamine N-acetyltransferase
+M-CSA 220,1mczE,"[25, 70, 47, 28, 26]",M-CSA,benzoylformate decarboxylase
+M-CSA 220,1mczF,"[281, 401]",M-CSA,benzoylformate decarboxylase
+M-CSA 221,2ag0A,[419],M-CSA,benzoin aldolase
+M-CSA 221,2ag0B,"[29, 50, 113]",M-CSA,benzoin aldolase
+M-CSA 222,2qutA,"[33, 146, 187, 363, 229, 300, 189]",M-CSA,fructose-bisphosphate aldolase (Class I)
+M-CSA 223,2qf7A,"[747, 749, 549, 655, 305, 353, 882, 297, 283, 299, 718]",M-CSA,pyruvate carboxylase
+M-CSA 224,1bobA,"[255, 220]",M-CSA,histone acetyltransferase (HAT1 family)
+M-CSA 225,1vr7A,"[83, 62, 63]",M-CSA,adenosylmethionine decarboxylase (prokaryotic)
+M-CSA 225,1vr7B,"[68, 55]",M-CSA,adenosylmethionine decarboxylase (prokaryotic)
+M-CSA 226,1qrrA,"[180, 182, 186, 145, 183]",M-CSA,UDP-sulfoquinovose synthase
+M-CSA 227,1e6uA,"[179, 136, 140, 107, 108, 109]",M-CSA,GDP-L-fucose synthase
+M-CSA 228,1bxkA,"[164, 135, 136, 160, 134]",M-CSA,"dTDP-glucose 4,6-dehydratase"
+M-CSA 229,2a84A,"[89, 40, 44, 47, 198, 196, 197, 160, 88, 92]",M-CSA,pantoate-beta-alanine ligase
+M-CSA 23,1xvaA,"[142, 21, 194, 137, 175]",M-CSA,glycine N-methyltransferase
+M-CSA 230,1gzgA,"[260, 205]",M-CSA,porphobilinogen synthase
+M-CSA 231,1uw8A,"[95, 97, 92, 101, 140, 162]",M-CSA,oxalate decarboxylase
+M-CSA 232,1a41A,"[167, 130, 274, 223, 265]",M-CSA,DNA topoisomerase (type IB)
+M-CSA 233,1g9zE,"[20, 19]",M-CSA,DNA endonuclease I-CreI
+M-CSA 233,1g9zF,[20],M-CSA,DNA endonuclease I-CreI
+M-CSA 234,1gpmA,"[181, 381, 86, 87, 183, 239, 59]",M-CSA,GMP synthase (glutamine-hydrolysing)
+M-CSA 235,1f7uB,"[159, 162, 156]",M-CSA,arginine-tRNA ligase
+M-CSA 236,1q6lA,"[37, 139, 136, 64, 112, 36]",M-CSA,3-dehydro-L-gulonate-6-phosphate decarboxylase
+M-CSA 236,1q6lB,"[72, 67, 68]",M-CSA,3-dehydro-L-gulonate-6-phosphate decarboxylase
+M-CSA 237,2c7vA,"[14, 174, 161]",M-CSA,pteridine reductase
+M-CSA 238,1wpoA,"[63, 157, 132, 134, 166, 165]",M-CSA,assemblin
+M-CSA 239,7atjA,"[38, 42, 170, 70]",M-CSA,peroxidase
+M-CSA 24,1nzyA,"[114, 86, 90, 64, 137, 145]",M-CSA,4-chlorobenzoyl-CoA dehalogenase
+M-CSA 240,1szdA,"[135, 118, 43, 42, 45, 44, 44, 116]",M-CSA,histone/protein deacetylase
+M-CSA 241,3pvaA,"[82, 1, 228, 1, 175]",M-CSA,penicillin amidase (peptidase C59 family)
+M-CSA 242,2f9rB,"[32, 91, 12, 34, 230, 233, 252, 47, 48, 52, 93]",M-CSA,sphingomyelin phosphodiesterase D (Class I)
+M-CSA 243,1ho1A,"[193, 51, 9, 12, 45, 47, 72, 153, 103]",M-CSA,pyridoxine 5'-phosphate synthase
+M-CSA 244,1cg6A,"[220, 222]",M-CSA,S-methyl-5'-thioadenosine phosphorylase
+M-CSA 245,2rjrA,"[63, 70]",M-CSA,"tyrosine 2,3-aminomutase"
+M-CSA 246,1ir3A,"[1150, 1137, 1132, 1136]",M-CSA,receptor protein-tyrosine kinase
+M-CSA 247,1kzlA,"[2, 41, 48, 50, 102, 148, 64]",M-CSA,riboflavin synthase
+M-CSA 248,1a7uA,"[99, 32, 228, 257, 98]",M-CSA,chloride peroxidase (cofactor free)
+M-CSA 248,1a8qA,"[28, 94, 223, 95, 252]",M-CSA,chloride peroxidase (cofactor free)
+M-CSA 249,1dtyA,"[17, 144, 245, 274]",M-CSA,adenosylmethionine--8-amino-7-oxononanoate transaminase
+M-CSA 25,1nbaA,"[51, 172, 173, 144, 177]",M-CSA,N-carbamoylsarcosine amidase
+M-CSA 250,2cpoA,"[183, 29, 105, 106]",M-CSA,chloride peroxidase (heme dependent)
+M-CSA 251,1eh6A,"[114, 145, 146, 172, 137]",M-CSA,methylated-DNA--[protein]-cysteine S-methyltransferase
+M-CSA 252,1igsA,"[51, 180, 210, 211, 53, 110, 159]",M-CSA,indole-3-glycerol-phosphate synthase
+M-CSA 253,1fpsA,"[121, 257, 258, 214, 112, 253, 71, 117, 126, 188]",M-CSA,geranyltranstransferase
+M-CSA 254,1h3bA,"[374, 365, 376, 451, 489, 495, 601, 605, 609, 169, 45, 420, 93, 127, 262, 312, 377]",M-CSA,squalene-hopene cyclase
+M-CSA 255,1mg5A,"[139, 152, 156, 108]",M-CSA,alcohol dehydrogenase (SDR type)
+M-CSA 256,1qlhA,"[174, 48, 46, 67, 51]",M-CSA,alcohol dehydrogenase (class I)
+M-CSA 257,1xx2A,"[64, 315, 318, 272, 64, 67, 150]",M-CSA,beta-lactamase (Class C)
+M-CSA 258,1smlA,"[191, 84, 160, 86, 88, 89, 225]",M-CSA,beta-lactamase (Class B1)
+M-CSA 259,1n20A,"[351, 355, 496, 500, 504, 323, 578, 344, 452]",M-CSA,bornyl diphosphate synthase
+M-CSA 26,1ptdA,"[32, 69, 274, 82, 33]",M-CSA,phosphatidylinositol diacylglycerol-lyase
+M-CSA 260,1gtkA,"[131, 242, 132, 83, 84, 149, 155]",M-CSA,hydroxymethylbilane synthase
+M-CSA 261,1di1A,"[333, 206, 92, 112, 178]",M-CSA,aristolochene synthase
+M-CSA 262,1jfgA,"[96, 97, 93, 182, 232, 304, 305, 100]",M-CSA,trichodiene synthase
+M-CSA 263,3kb9A,"[95, 96, 198, 338]",M-CSA,epi-isozizaene synthase
+M-CSA 264,1ezfA,"[171, 218, 228, 288]",M-CSA,squalene synthase
+M-CSA 265,5eatA,"[401, 402, 403, 441, 444, 520, 525, 527, 264, 273]",M-CSA,5-epi-aristolochene synthase
+M-CSA 266,1apyA,[49],M-CSA,N4-(beta-N-acetylglucosaminyl)-L-asparaginase
+M-CSA 266,1apyB,"[183, 183, 201, 211, 235, 234]",M-CSA,N4-(beta-N-acetylglucosaminyl)-L-asparaginase
+M-CSA 267,1dhpA,"[138, 44, 203, 133, 161]",M-CSA,dihydrodipicolinate synthase
+M-CSA 267,1dhpB,[107],M-CSA,dihydrodipicolinate synthase
+M-CSA 268,1bmtA,"[757, 759, 810]",M-CSA,methionine synthase
+M-CSA 269,3dgbA,"[200, 275, 329, 226, 251, 24, 171, 169]",M-CSA,muconate cycloisomerase (syn)
+M-CSA 27,1ah7A,"[55, 118, 122, 128, 142, 146, 14, 69]",M-CSA,phospholipase C
+M-CSA 270,1h1zA,"[178, 144, 71, 38, 11, 40, 36, 69]",M-CSA,ribulose-phosphate 3-epimerase (cytoplasmic)
+M-CSA 271,1pymA,"[46, 85, 114, 87, 159, 190, 122, 123, 48, 47, 120, 58]",M-CSA,phosphoenolpyruvate mutase
+M-CSA 272,1f61A,"[153, 180, 191, 228, 315, 317, 193]",M-CSA,isocitrate lyase
+M-CSA 273,1jdiA,"[95, 97, 171]",M-CSA,L-ribulose-5-phosphate 4-epimerase
+M-CSA 273,1jdiAC,[120],M-CSA,L-ribulose-5-phosphate 4-epimerase
+M-CSA 274,1powA,"[394, 479, 480, 483, 264]",M-CSA,pyruvate oxidase
+M-CSA 274,1powAA,"[122, 121, 59]",M-CSA,pyruvate oxidase
+M-CSA 275,3ey9A,"[380, 465]",M-CSA,pyruvate dehydrogenase (cytochrome)
+M-CSA 275,3ey9B,"[113, 50, 112]",M-CSA,pyruvate dehydrogenase (cytochrome)
+M-CSA 276,1ogyE,"[383, 346, 152, 56, 384, 153]",M-CSA,nitrate reductase
+M-CSA 277,1zk7A,"[47, 42]",M-CSA,mercury(II) reductase
+M-CSA 277,1zk7AA,"[464, 465]",M-CSA,mercury(II) reductase
+M-CSA 278,2b3iA,"[82, 85, 90, 39]",M-CSA,plastoquinol-plastocyanin reductase
+M-CSA 279,1surA,"[204, 208]",M-CSA,phosphoadenylyl-sulfate reductase (thioredoxin)
+M-CSA 279,1surAA,"[204, 208]",M-CSA,phosphoadenylyl-sulfate reductase (thioredoxin)
+M-CSA 28,1djxA,"[390, 356, 341, 311, 312, 343]",M-CSA,phosphoinositide phospholipase C
+M-CSA 280,1dtwA,"[291, 292, 162]",M-CSA,3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+M-CSA 280,1dtwBA,[76],M-CSA,3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+M-CSA 281,2gmhA,"[556, 553, 559, 367, 82, 331, 528, 556]",M-CSA,electron-transferring-flavoprotein dehydrogenase
+M-CSA 282,1s9iA,"[194, 221]",M-CSA,mitogen-activated protein kinase kinase
+M-CSA 283,1k0gA,"[274, 258]",M-CSA,aminodeoxychorismate synthase
+M-CSA 284,2dd5B,[108],M-CSA,thiocyanate hydrolase
+M-CSA 284,2dd5C,"[132, 133, 128, 132, 133, 131]",M-CSA,thiocyanate hydrolase
+M-CSA 285,1uokA,"[255, 328, 199, 98, 329]",M-CSA,"oligo-1,6-glucosidase"
+M-CSA 286,2z67A,"[166, 249, 278]",M-CSA,O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+M-CSA 286,2z67B,"[72, 95, 102, 307, 94]",M-CSA,O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+M-CSA 287,1g8fA,"[197, 196, 201, 204, 290]",M-CSA,sulfate adenylyltransferase
+M-CSA 288,3s8rA,"[239, 170, 192, 624, 413, 170]",M-CSA,glutaryl-7-aminocephalosporanic-acid acylase
+M-CSA 289,1n0hA,"[201, 202, 251, 139]",M-CSA,acetolactate synthase (biosynthetic)
+M-CSA 289,1n0hB,[582],M-CSA,acetolactate synthase (biosynthetic)
+M-CSA 29,1djoA,"[1020, 1034, 1100, 1101, 1173]",M-CSA,glutamin-(asparagin-)ase
+M-CSA 29,1djoB,[3294],M-CSA,glutamin-(asparagin-)ase
+M-CSA 290,1zioA,"[13, 88, 127, 160, 171]",M-CSA,adenylate kinase
+M-CSA 291,1mlaA,"[93, 92, 201, 117, 11, 250]",M-CSA,malonyl-CoA-acyl carrier protein transacylase
+M-CSA 292,1dd8A,"[328, 333, 390, 392, 163, 298]",M-CSA,beta-ketoacyl-[acyl carrier protein] synthase I
+M-CSA 293,1mhtC,"[119, 81, 163, 165]",M-CSA,DNA (cytosine-5-)-methyltransferase (HhaI)
+M-CSA 294,1yq4A,"[251, 253, 364, 408, 263, 266, 297, 130]",M-CSA,succinate dehydrogenase (ubiquinone)
+M-CSA 295,1adnA,"[38, 42, 69, 72]",M-CSA,methylphosphotriester-DNA--protein-cysteine S-methyltransferase
+M-CSA 296,1n1dA,"[44, 46]",M-CSA,glycerol-3-phosphate cytidylyltransferase
+M-CSA 297,1s6lA,"[96, 99, 159]",M-CSA,alkylmercury lyase
+M-CSA 298,2panA,"[421, 479, 476]",M-CSA,tartronate-semialdehyde synthase
+M-CSA 298,2panAA,"[25, 51]",M-CSA,tartronate-semialdehyde synthase
+M-CSA 299,1b6tA,"[129, 18, 42, 91]",M-CSA,pantetheine-phosphate adenylyltransferase
+M-CSA 3,1d4aA,"[149, 155, 161]",M-CSA,NAD(P)H dehydrogenase (quinone)
+M-CSA 30,2pflA,"[418, 419, 333, 734]",M-CSA,formate C-acetyltransferase
+M-CSA 300,2pz0A,"[44, 46, 119, 239, 17, 18, 59, 121]",M-CSA,glycerophosphodiester phosphodiesterase
+M-CSA 301,1mkiA,"[74, 74, 271, 201, 253, 77]",M-CSA,glutaminase
+M-CSA 302,1ct9A,"[1, 321, 50, 75, 324, 1, 74]",M-CSA,asparagine synthase (glutamine-hydrolysing)
+M-CSA 303,1mb9A,"[382, 348, 443]",M-CSA,(carboxyethyl)arginine beta-lactam-synthase
+M-CSA 304,1ea0A,"[1, 232, 886, 231, 1, 479, 937]",M-CSA,glutamate synthase (NADPH)
+M-CSA 305,1et0A,"[159, 193, 38]",M-CSA,aminodeoxychorismate lyase (class IV)
+M-CSA 306,2vckA,"[206, 105]",M-CSA,phycoerythrobilin synthase
+M-CSA 307,3cmmA,"[781, 782, 481, 601, 603, 544, 600, 21]",M-CSA,E1 ubiquitin-activating enzyme
+M-CSA 308,1xldA,"[87, 182, 292, 53, 56, 180, 216, 219, 244, 254, 256]",M-CSA,xylose isomerase (actinobacterial)
+M-CSA 309,1ileA,"[518, 554, 558, 591, 594, 85, 46]",M-CSA,isoleucine-tRNA ligase (type 2)
+M-CSA 31,1lcbA,"[82, 198, 60, 218, 221, 146]",M-CSA,thymidylate synthase
+M-CSA 310,1e4eA,"[311, 244, 290, 315, 99, 250, 22, 19]",M-CSA,D-alanine-(R)-lactate ligase
+M-CSA 311,7enlA,"[211, 373, 168, 396, 345, 39, 246, 295, 320, 159]",M-CSA,phosphopyruvate hydratase
+M-CSA 312,1kq3A,"[255, 169, 252, 269]",M-CSA,glycerol dehydrogenase
+M-CSA 313,1dizE,"[222, 238, 218]",M-CSA,DNA-3-methyladenine glycosylase II
+M-CSA 314,1qdlA,"[306, 333, 357, 377, 393]",M-CSA,anthranilate synthase
+M-CSA 314,1qdlB,"[85, 56, 84, 175, 177]",M-CSA,anthranilate synthase
+M-CSA 315,1ey3A,"[141, 98, 144, 164]",M-CSA,enoyl-CoA hydratase
+M-CSA 316,1j21A,"[92, 173, 121, 12]",M-CSA,argininosuccinate synthetase
+M-CSA 317,1uagA,"[183, 115, 138]",M-CSA,UDP-N-acetylmuramoyl-L-alanine---D-glutamate ligase
+M-CSA 318,1j09A,[246],M-CSA,glutamate-tRNA ligase
+M-CSA 319,1oyaA,"[251, 191, 194, 37, 196]",M-CSA,NADPH dehydrogenase
+M-CSA 32,1qinA,"[99, 33]",M-CSA,lactoylglutathione lyase
+M-CSA 32,1qinB,"[126, 172]",M-CSA,lactoylglutathione lyase
+M-CSA 320,3h8iA,"[215, 178, 350, 353, 129, 386]",M-CSA,sulfide:quinone oxidoreductase
+M-CSA 321,1yt3A,"[28, 155, 151, 30, 85]",M-CSA,ribonuclease D
+M-CSA 322,1gogA,"[228, 272, 290, 495, 496, 581]",M-CSA,galactose oxidiase
+M-CSA 323,2akjA,"[486, 487, 223, 224, 109, 481]",M-CSA,nitrate reductase
+M-CSA 324,1tphA,"[171, 165, 11, 211, 97, 13, 95]",M-CSA,triosephosphate isomerase
+M-CSA 325,2euaA,"[240, 190, 284, 416, 420]",M-CSA,isochorismate synthase (menaquinone-specific)
+M-CSA 326,1pknA,"[72, 269, 327, 119]",M-CSA,pyruvate kinase
+M-CSA 327,1i58A,[409],M-CSA,protein histidine kinase (CheA)
+M-CSA 328,1lbmA,"[7, 126]",M-CSA,phosphoribosylanthranilate isomerase
+M-CSA 329,2ixjA,"[65, 74, 134, 171]",M-CSA,"dTDP-6-deoxy-D-xylo-4-hexulose 3,5 epimerase"
+M-CSA 33,1jc5A,"[48, 141, 12, 65, 91]",M-CSA,methylmalonyl-CoA epimerase
+M-CSA 330,2zr8A,"[208, 212, 214, 308, 82, 57]",M-CSA,serine racemase
+M-CSA 331,1rm0A,"[412, 489, 369, 320]",M-CSA,inositol-3-phosphate synthase
+M-CSA 332,1uamA,"[89, 116]",M-CSA,tRNA-(m1-G37)-methyl transferase
+M-CSA 332,1uamAA,"[154, 169]",M-CSA,tRNA-(m1-G37)-methyl transferase
+M-CSA 333,2o1xA,"[289, 373, 401]",M-CSA,1-deoxy-D-xylulose 5-phosphate synthase
+M-CSA 334,1bwzA,"[217, 220, 73, 159, 208]",M-CSA,diaminopimelate epimerase
+M-CSA 335,1jflA,"[164, 194, 48, 84, 124, 82]",M-CSA,aspartate racemase (CC-type)
+M-CSA 336,2hdhA,"[208, 137, 170, 158]",M-CSA,L-3-hydroxyacyl-CoA dehydrogenase
+M-CSA 337,1chdA,"[283, 286, 190, 164, 165]",M-CSA,protein-glutamate methylesterase (CheB)
+M-CSA 338,2id0A,"[201, 209, 210, 207, 313, 500]",M-CSA,RNAse II
+M-CSA 339,1c3jA,"[100, 191, 72, 22]",M-CSA,DNA beta-glucosyltransferase
+M-CSA 34,1mpyA,"[153, 199, 246, 255, 214, 265]",M-CSA,"catechol 2,3-dioxygenase"
+M-CSA 340,2wmlA,"[269, 319]",M-CSA,"beta-galactoside alpha-2,3-sialyltransferase"
+M-CSA 341,1sg4A,"[66, 111, 136, 135]",M-CSA,"3,2-trans-enoyl-CoA isomerase (mitochondrial)"
+M-CSA 342,1dciA,"[196, 204, 176, 173, 117]",M-CSA,"delta(3,5)-delta(2,4)-dienoyl-CoA isomerase"
+M-CSA 343,1hzdA,"[209, 186, 141, 189]",M-CSA,methylglutaconyl-CoA hydratase
+M-CSA 344,2gtrA,"[66, 146, 115]",M-CSA,histone acetyltransferase (crotonase type)
+M-CSA 345,3bptA,"[146, 98, 169, 177]",M-CSA,3-hydroxyisobutyryl-CoA hydrolase
+M-CSA 346,1q51A,"[105, 161, 115, 185, 190]",M-CSA,"1,4-dihydroxy-2-naphthoyl-CoA synthase"
+M-CSA 346,1q51D,[287],M-CSA,"1,4-dihydroxy-2-naphthoyl-CoA synthase"
+M-CSA 347,2vssA,"[70, 120, 75, 143]",M-CSA,feruloyl CoA hydratase/lyase
+M-CSA 347,2vssB,[239],M-CSA,feruloyl CoA hydratase/lyase
+M-CSA 348,2chrA,"[194, 220, 269, 165, 323, 245, 163]",M-CSA,chloromuconate cycloisomerase
+M-CSA 349,1e3vA,"[40, 16, 100, 103]",M-CSA,delta 5-3-ketosteroid isomerase
+M-CSA 35,2phkA,"[154, 151, 186, 149, 167]",M-CSA,phosphorylase kinase
+M-CSA 350,1h3iA,"[297, 305, 335, 293, 245]",M-CSA,histone-lysine N-methyltransferase (SET7/9 subfamily)
+M-CSA 351,1snzA,"[307, 107, 176]",M-CSA,aldose 1-epimerase
+M-CSA 352,3pmgB,"[116, 117, 388, 292, 287, 289, 291]",M-CSA,phosphoglucomutase
+M-CSA 353,1mbbA,"[159, 229, 325]",M-CSA,UDP-N-acetylenolpyruvylglucosamine reductase (MurB)
+M-CSA 354,1coyA,"[447, 361, 485]",M-CSA,cholesterol oxidase (GMC type)
+M-CSA 355,1cgkA,"[215, 303, 164, 336]",M-CSA,naringenin-chalcone synthase
+M-CSA 356,1vzxA,"[356, 317, 247, 314, 280, 365]",M-CSA,"alpha-1,3-galactosetransferase"
+M-CSA 357,3thiA,"[272, 241, 113]",M-CSA,thiaminase (class 1)
+M-CSA 358,2a5hA,"[112, 113, 116, 132, 134, 337, 293, 330, 129, 125]",M-CSA,"lysine 2,3-aminomutase"
+M-CSA 359,1f9zA,"[122, 74]",M-CSA,lactoglutathione lyase
+M-CSA 359,1f9zB,"[56, 5]",M-CSA,lactoglutathione lyase
+M-CSA 36,1qq5A,"[147, 8, 12, 39, 171, 173, 175, 176, 115, 114]",M-CSA,(S)-2-haloacid dehalogenase
+M-CSA 360,2fp8A,[309],M-CSA,strictosidine synthase
+M-CSA 361,3a15A,"[306, 320, 299, 143, 178, 219]",M-CSA,aldoxime dehydratase
+M-CSA 362,1d6oA,"[99, 26, 36, 82, 37, 56]",M-CSA,prolyl cis-trans isomerase (FKBP-type)
+M-CSA 363,1grcA,"[108, 135, 144, 106]",M-CSA,glycinamide ribonucleotide transformylase
+M-CSA 364,2tpsA,"[59, 130, 159]",M-CSA,thiamine phosphate synthase
+M-CSA 365,1pfkA,"[103, 125, 129, 171, 72, 11, 127]",M-CSA,Phosphofructokinase I
+M-CSA 366,1eclA,"[321, 111, 113, 115, 319, 365, 9]",M-CSA,DNA topoisomerase I (type 1A)
+M-CSA 367,2ihtA,"[463, 490, 561, 492, 438]",M-CSA,N(2)-(2-carboxyethyl)arginine synthase
+M-CSA 367,2ihtB,[57],M-CSA,N(2)-(2-carboxyethyl)arginine synthase
+M-CSA 368,1i8tB,"[174, 348, 278, 298, 346, 247, 170]",M-CSA,UDP-galactopyranose mutase
+M-CSA 369,1dlgB,"[23, 115, 305, 397, 22, 120]",M-CSA,UDP-N-acetylglucosamine enolpyruvyl transferase
+M-CSA 37,5coxA,"[384, 388, 530, 385, 203, 207, 526]",M-CSA,prostaglandin-endoperoxide synthase
+M-CSA 370,2ybpA,"[276, 288, 170, 177, 190, 188]",M-CSA,lysine-specific [histone H3] demethylase
+M-CSA 371,1a05A,"[246, 140, 250]",M-CSA,3-isopropylmalate dehydrogenase
+M-CSA 371,1a05B,"[190, 222]",M-CSA,3-isopropylmalate dehydrogenase
+M-CSA 373,1qi9A,"[341, 349, 417, 411, 416, 418, 480, 486, 490]",M-CSA,Vanadium-dependent bromoperoxidase (organic sulfide oxidation)
+M-CSA 374,1qi9A,"[341, 349, 411, 416, 418, 480, 486, 490, 417]",M-CSA,Vanadium-dependent bromoperoxidase (organic molecule bromination)
+M-CSA 375,4ts9A,"[20, 90, 204, 24, 87, 217]",M-CSA,Purine nucleoside phosphorylase DeoD-type
+M-CSA 375,4ts9C,[43],M-CSA,Purine nucleoside phosphorylase DeoD-type
+M-CSA 376,1a4lA,"[217, 238, 17, 295, 15, 214]",M-CSA,adenosine deaminase
+M-CSA 377,1r0mA,"[170, 297, 195, 220, 245, 269, 142, 168]",M-CSA,N-succinylamino acid racemase
+M-CSA 378,1mokA,"[137, 82, 87, 78]",M-CSA,"2-oxopropyl-CoM reductase, carboxylating"
+M-CSA 378,1mokB,[501],M-CSA,"2-oxopropyl-CoM reductase, carboxylating"
+M-CSA 379,1a16A,"[243, 350, 361, 383, 260, 271, 406, 354, 404, 387]",M-CSA,Xaa-Pro aminopeptidase
+M-CSA 379,1a16AC,[38],M-CSA,Xaa-Pro aminopeptidase
+M-CSA 38,1fbxA,"[113, 179, 111, 112, 151, 110, 181]",M-CSA,GTP cyclohydrolase I
+M-CSA 380,1nluA,"[80, 170, 84, 287]",M-CSA,sedolisin
+M-CSA 381,1tdeA,"[135, 138, 139]",M-CSA,Thioredoxin reductase
+M-CSA 382,1gxsA,"[270, 158]",M-CSA,P-(S)-hydroxymandelonitrile lyase
+M-CSA 383,1a50A,"[49, 60, 175, 233, 235, 183, 102, 173, 234]",M-CSA,tryptophan synthase
+M-CSA 383,1a50B,"[87, 109, 377, 190, 235, 236, 351, 110, 232, 233, 234]",M-CSA,tryptophan synthase
+M-CSA 384,1a8hA,"[147, 127, 130, 19, 22, 297, 300, 144]",M-CSA,Methionine--tRNA ligase
+M-CSA 385,1eg7A,"[1097, 1384, 1276, 1074, 1412, 1108, 1076, 1304]",M-CSA,formyltetrahydrofolate synthetase
+M-CSA 386,1qi9A,"[417, 341, 349, 411, 416, 418, 480, 486, 490]",M-CSA,Vanadium-dependent bromoperoxidase (HOBr Formation)
+M-CSA 387,1yphB,"[57, 102]",M-CSA,chymotrypsinogen A
+M-CSA 387,1yphC,"[193, 195, 196]",M-CSA,chymotrypsinogen A
+M-CSA 388,5hrcA,"[14, 83, 197]",M-CSA,aspartate racemase (CT type)
+M-CSA 389,1a4iA,"[100, 56, 125]",M-CSA,methylenetetrahydrofolate dehydrogenase (NADP+)
+M-CSA 39,2masA,"[15, 10, 168, 241, 167, 126, 39, 242]",M-CSA,inosine-uridine preferring nucleoside hydrolase
+M-CSA 390,2qt6A,"[64, 394, 452, 454, 462, 451, 457, 453, 399, 397, 109, 111, 66]",M-CSA,laccase
+M-CSA 391,1a95A,"[88, 89, 92]",M-CSA,xanthine phosphoribosyltransferase
+M-CSA 392,1af7A,"[53, 154]",M-CSA,protein-glutamate O-methyltransferase
+M-CSA 393,1agmA,"[180, 120, 400, 179, 176]",M-CSA,"glucan 1,4-alpha-glucosidase"
+M-CSA 394,1aj0A,"[221, 255]",M-CSA,dihydropteroate synthase
+M-CSA 395,1ak0A,"[60, 6, 1, 48, 45, 116, 120, 126, 149, 153]",M-CSA,nuclease P1
+M-CSA 396,1am5A,"[35, 37, 32, 75, 215, 39, 218]",M-CSA,aspartic peptidase
+M-CSA 397,1amyA,"[179, 289, 204]",M-CSA,alpha-amylase
+M-CSA 398,1aopA,"[483, 440, 479, 153, 215, 83, 217, 434]",M-CSA,sulfite reductase (NADPH)
+M-CSA 399,1apxA,"[38, 42, 163, 179, 208]",M-CSA,L-ascorbate peroxidase
+M-CSA 4,1niaA,"[98, 135, 136, 145, 150, 95, 100]",M-CSA,nitrite reductase (copper type)
+M-CSA 4,1niaB,"[306, 255, 279, 280]",M-CSA,nitrite reductase (copper type)
+M-CSA 40,13pkA,"[399, 376, 219, 39]",M-CSA,phosphoglycerate kinase
+M-CSA 400,1aq0A,"[232, 280, 283, 288]",M-CSA,licheninase (glycosyl hydrolase 17 family)
+M-CSA 401,1aqlA,"[108, 435, 195, 194, 320, 107]",M-CSA,bile salt-activated lipase
+M-CSA 402,1arzA,"[159, 163]",M-CSA,dihydrodipicolinate reductase
+M-CSA 403,1astA,"[92, 102, 96, 149, 93]",M-CSA,astacin
+M-CSA 404,1asyC,"[325, 531, 333, 327, 478, 481, 334]",M-CSA,aspartate---tRNA ligase
+M-CSA 405,1at1A,"[54, 55, 134, 105]",M-CSA,aspartate carbamoyltransferase
+M-CSA 405,1at1AA,[84],M-CSA,aspartate carbamoyltransferase
+M-CSA 406,1auiA,"[90, 254, 151, 92, 150, 121, 122, 281, 199, 118]",M-CSA,protein phosphatase 2B
+M-CSA 407,2o7rA,"[92, 93, 170, 169, 306, 276, 282, 278]",M-CSA,carboxylesterase
+M-CSA 408,1auwA,"[287, 294, 281]",M-CSA,argininosuccinate lyase
+M-CSA 408,1auwC,[160],M-CSA,argininosuccinate lyase
+M-CSA 409,1aw8B,"[58, 25]",M-CSA,aspartate 1-decarboxylase
+M-CSA 409,1aw8CA,[9],M-CSA,aspartate 1-decarboxylase
+M-CSA 41,1dnkC,"[212, 39, 76, 78, 134, 252, 168]",M-CSA,deoxyribonuclease I
+M-CSA 410,1ax4A,"[223, 458, 133, 266, 132, 225]",M-CSA,tryptophanase
+M-CSA 410,1ax4B,[72],M-CSA,tryptophanase
+M-CSA 411,1ay4A,"[224, 222, 258, 140]",M-CSA,aromatic-amino-acid transaminase
+M-CSA 412,1azwA,"[111, 266, 294, 110, 43]",M-CSA,prolyl aminopeptidase
+M-CSA 413,1azyA,"[171, 190, 191, 84, 83, 123, 86, 186, 85]",M-CSA,thymidine phosphorylase
+M-CSA 414,1b2mD,"[100, 77, 92, 38, 40, 58]",M-CSA,ribonuclease T1
+M-CSA 415,1b6gA,"[124, 260, 289, 125, 175]",M-CSA,haloalkane dehalogenase (subfamily 1)
+M-CSA 416,1h7aA,"[290, 311, 446, 580, 79, 288, 292, 78, 441]",M-CSA,ribonucleoside-triphosphate reductase (class III)
+M-CSA 417,1b8fA,"[329, 195, 414, 53, 83]",M-CSA,histidine ammonia-lyase
+M-CSA 417,1b8fAA,"[280, 283]",M-CSA,histidine ammonia-lyase
+M-CSA 418,1b8gA,"[273, 232, 145, 230]",M-CSA,1-aminocyclopropane-1-carboxylate synthase
+M-CSA 419,1b9hA,"[188, 159, 88, 162, 185]",M-CSA,3-amino-5-hydroxybenzoate synthase
+M-CSA 419,1b9hAA,"[219, 226, 236]",M-CSA,3-amino-5-hydroxybenzoate synthase
+M-CSA 42,1ql0A,"[89, 119, 127, 57, 110]",M-CSA,nuclease
+M-CSA 420,1bd3A,"[238, 137, 141, 235]",M-CSA,uracil phosphoribosyltransferase
+M-CSA 421,1bf2A,"[232, 229, 230, 259, 375, 435, 510, 128]",M-CSA,isoamylase
+M-CSA 422,4v40A,"[357, 461, 537, 391, 416, 201, 418, 601, 604, 597]",M-CSA,beta-galactosidase
+M-CSA 423,1bhgA,"[451, 504, 540, 207]",M-CSA,beta-glucuronidase
+M-CSA 424,1bjoA,"[174, 102, 198]",M-CSA,phosphoserine transaminase
+M-CSA 425,1qrzA,"[742, 603, 646, 741]",M-CSA,plasmin
+M-CSA 426,1bolA,"[108, 49, 46, 105, 109, 57]",M-CSA,ribonuclease T2
+M-CSA 427,1booA,"[96, 53, 54]",M-CSA,site-specific DNA-methyltransferase (cytosine-N4-specific)
+M-CSA 428,1bqcA,"[196, 254, 198, 225, 127, 128, 50]",M-CSA,"mannan endo-1,4-beta-mannosidase"
+M-CSA 429,1brmA,"[274, 267, 135, 162]",M-CSA,aspartate-semialdehyde dehydrogenase
+M-CSA 43,4kbpA,"[325, 295, 164, 202, 296, 201, 135, 167, 286, 323]",M-CSA,purple acid phosphatase
+M-CSA 430,1bs0A,"[236, 179, 204, 207, 133, 175, 47]",M-CSA,8-amino-7-oxononanoate synthase
+M-CSA 431,1bs9A,"[90, 13, 13, 175, 91, 187]",M-CSA,acetylxylan esterase
+M-CSA 432,1bvvA,"[69, 172, 80, 78, 35]",M-CSA,"endo-1,4-beta-xylanase (glycosyl hydrolase 11 family)"
+M-CSA 433,1bvzA,"[325, 354, 421]",M-CSA,neopullulanase
+M-CSA 434,1bwdA,"[179, 227, 229, 331, 332, 108, 9, 286]",M-CSA,scyllo-inosamine-4-phosphate amidinotransferase
+M-CSA 435,1bxrC,"[841, 243, 283, 301, 299, 202, 285, 129, 169, 215, 829, 761, 843, 715, 721, 722, 848, 303]",M-CSA,carbamoyl-phosphate synthase (glutamine-hydrolysing)
+M-CSA 435,1bxrD,"[269, 353, 355]",M-CSA,carbamoyl-phosphate synthase (glutamine-hydrolysing)
+M-CSA 436,1byaA,"[101, 186, 380, 342, 383]",M-CSA,beta-amylase
+M-CSA 437,1c4xA,"[109, 264, 235, 110, 263, 40, 111, 186]",M-CSA,"2,6-dioxo-6-phenylhexa-3-enoate hydrolase"
+M-CSA 438,1c4zA,"[506, 539, 550, 607, 818, 820]",M-CSA,HECT-type E3 ubiquitin transferase
+M-CSA 438,1c4zD,[86],M-CSA,HECT-type E3 ubiquitin transferase
+M-CSA 439,1c82A,"[399, 408, 349, 462]",M-CSA,hyaluronate lyase
+M-CSA 44,1alkA,"[166, 155, 322, 327, 331, 369, 370, 412, 153, 102, 328, 51]",M-CSA,alkaline phosphatase
+M-CSA 440,1qk2B,"[169, 174, 175, 221, 401, 181]",M-CSA,"cellulose 1,4-beta-cellobiosidase (non-reducing end)"
+M-CSA 441,1cb8A,"[234, 288, 225, 371, 175]",M-CSA,chondroitin AC lyase
+M-CSA 442,1cbgA,"[324, 397, 183, 91, 326, 137]",M-CSA,beta-glucosidase (GH1)
+M-CSA 443,1cc1A,"[208, 211, 237, 231, 258, 246, 264, 267, 126, 164, 18, 21]",M-CSA,[NiFeSe] hydrogenase
+M-CSA 443,1cc1B,"[70, 73, 492, 425, 495, 77, 23]",M-CSA,[NiFeSe] hydrogenase
+M-CSA 444,1celA,"[214, 212, 217, 228]",M-CSA,"cellulose 1,4-beta-cellobiosidase (non-reducing end)"
+M-CSA 445,1cevA,"[99, 126, 271, 124, 122, 226, 228, 139]",M-CSA,arginase
+M-CSA 446,1cfrA,"[71, 190, 134, 204]",M-CSA,"type II site-specific deoxyribonuclease, Cfr10I/Bse634I"
+M-CSA 447,1cg2A,"[112, 141, 175, 176, 200, 385]",M-CSA,glutamate carboxypeptidase
+M-CSA 448,1chkA,"[22, 40, 45]",M-CSA,chitosanase
+M-CSA 449,1cl1A,"[111, 210, 185]",M-CSA,cystathionine beta-lyase
+M-CSA 449,1cl1AA,[58],M-CSA,cystathionine beta-lyase
+M-CSA 45,1cdgA,"[328, 227, 229, 257, 327]",M-CSA,cyclomaltodextrin glucanotransferase
+M-CSA 450,1dgsA,"[116, 114, 118, 221, 406, 409, 422, 427, 312]",M-CSA,DNA ligase (NAD+)
+M-CSA 451,1ec9A,"[235, 260, 237, 339, 205, 207, 289, 313, 341]",M-CSA,glucarate dehydratase
+M-CSA 453,1jkmA,"[202, 308, 338, 233, 238, 127, 128]",M-CSA,Brefeldin A esterase
+M-CSA 454,1rptA,"[11, 12, 15, 79, 257, 258]",M-CSA,high molecular weight acid phosphatase
+M-CSA 455,3ecaA,"[12, 89, 25, 89, 90, 162]",M-CSA,asparaginase
+M-CSA 455,3ecaC,[283],M-CSA,asparaginase
+M-CSA 456,1d5rA,"[92, 124, 130]",M-CSA,dual-specificity phosphatase
+M-CSA 457,1g6tA,"[49, 313, 341, 385, 411, 94, 386]",M-CSA,3-phosphoshikimate 1-carboxyvinyltransferase
+M-CSA 458,1a4iA,"[49, 100, 56]",M-CSA,methenyltetrahydrofolate cyclohydrolase
+M-CSA 459,1pylA,"[71, 56, 67, 86]",M-CSA,guanyl-specific ribonuclease Sa
+M-CSA 46,2admA,"[105, 108, 106, 196]",M-CSA,site-specific DNA-methyltransferase (adenine-specific)
+M-CSA 460,1myrA,"[95, 187, 190, 328, 330, 409]",M-CSA,thioglucosidase
+M-CSA 461,1s9cA,"[216, 193, 198, 213]",M-CSA,enoyl-CoA hydratase
+M-CSA 462,1pntA,"[12, 17, 18, 129, 15, 19]",M-CSA,low molecular weight phosphotyrosine protein phosphatase
+M-CSA 463,2dw7A,"[213, 265, 239, 55, 182, 184, 292, 322, 341]",M-CSA,D(-)-tartrate dehydratase
+M-CSA 464,1tehB,"[46, 48, 47, 103, 100, 67, 97, 68, 111, 115, 174, 369]",M-CSA,alcohol dehydrogenase (class III)
+M-CSA 465,1ju3A,"[117, 166, 259, 287, 44, 117, 118]",M-CSA,cocaine esterase
+M-CSA 466,1ci8A,"[351, 75, 78, 181, 75, 348, 253, 351, 186, 135, 152, 133]",M-CSA,fusarinine-C ornithinesterase
+M-CSA 467,1cv2A,"[38, 132, 272, 108, 109]",M-CSA,haloalkane dehalogenase (subfamily 2)
+M-CSA 468,1kczA,"[194, 331, 238, 273, 172, 307, 329]",M-CSA,methylaspartate ammonia-lyase
+M-CSA 469,1bzcA,"[262, 181, 215, 221, 222]",M-CSA,protein-tyrosine-phosphatase non-receptor type 1
+M-CSA 47,1ytwA,"[402, 356, 403, 409, 410, 290, 354]",M-CSA,protein-tyrosine-phosphatase non-receptor class
+M-CSA 470,1gz6A,"[164, 168]",M-CSA,(3R)-hydroxyacyl-CoA dehydrogenase
+M-CSA 471,1hozA,"[186, 261, 40, 260, 15, 10, 137, 83]",M-CSA,"inosine, adenosine, and guanine nucleoside hydrolase"
+M-CSA 472,1s95A,"[242, 244, 271, 352, 274, 304, 275, 303, 400, 427]",M-CSA,serine/threonine-protein phosphatase 5
+M-CSA 473,1xqdA,"[393, 243, 352, 286]",M-CSA,NADP nitrous oxide-forming nitric oxide reductase
+M-CSA 474,3zo8D,"[7, 78, 116, 108, 90]",M-CSA,chorismate mutase (AroH)
+M-CSA 474,3zo8F,"[63, 75]",M-CSA,chorismate mutase (AroH)
+M-CSA 475,1cnsA,"[67, 89]",M-CSA,"chitinase (GH19, Class II)"
+M-CSA 476,1cqjA,"[208, 246]",M-CSA,succinate---CoA ligase (ADP-forming)
+M-CSA 476,1cqjB,"[109, 197]",M-CSA,succinate---CoA ligase (ADP-forming)
+M-CSA 477,1cqqA,"[147, 40, 71, 147, 145]",M-CSA,picornain 3C
+M-CSA 478,1ctnA,"[390, 313, 311, 315]",M-CSA,"chitinase (GH18, Class II)"
+M-CSA 479,1cwyA,"[293, 340, 395]",M-CSA,4-alpha-glucanotransferase
+M-CSA 48,1bzyA,"[137, 199, 186, 133, 134]",M-CSA,hypoxanthine phosphoribosyltransferase
+M-CSA 480,1czfA,"[258, 201, 202, 256, 180, 223]",M-CSA,polygalacturonase
+M-CSA 481,1d2rA,"[111, 192, 195]",M-CSA,tryptophan---tRNA ligase
+M-CSA 482,1d7rA,"[138, 210, 243, 246, 272, 406]",M-CSA,"2,2-dialkylglycine decarboxylase (pyruvate)"
+M-CSA 483,4hpnA,"[166, 269, 246, 296, 220, 194, 329]",M-CSA,galactarolactone cycloisomerase
+M-CSA 484,1d8dA,[164],M-CSA,protein farnesyltransferase
+M-CSA 484,1d8dB,"[297, 248, 291, 294, 299, 362, 359, 352, 300]",M-CSA,protein farnesyltransferase
+M-CSA 485,2qmxA,"[171, 173]",M-CSA,prephenate dehydratase
+M-CSA 486,1d8hA,"[305, 496, 393, 409, 456, 307]",M-CSA,polynucleotide 5'-phosphatase
+M-CSA 487,1db3A,"[132, 134, 156, 160]",M-CSA,"GDP-mannose 4,6-dehydratase"
+M-CSA 488,1de6A,"[234, 270, 302, 236, 294, 304, 267, 334, 193]",M-CSA,L-rhamnose isomerase
+M-CSA 49,1pyaA,"[63, 62, 66]",M-CSA,histidine decarboxylase
+M-CSA 49,1pyaE,[81],M-CSA,histidine decarboxylase
+M-CSA 49,1pyaF,"[195, 197, 1]",M-CSA,histidine decarboxylase
+M-CSA 490,1dhfA,"[22, 30]",M-CSA,dihydrofolate reductase (mammalian)
+M-CSA 491,1dhrA,"[146, 150]",M-CSA,"6,7-dihydropteridine reductase"
+M-CSA 492,1dinA,"[171, 202, 123, 124, 37, 85, 36]",M-CSA,carboxymethylenebutenolidase
+M-CSA 493,1dj0A,"[58, 60, 205]",M-CSA,tRNA pseudouridine38-40 synthase
+M-CSA 494,1dioA,"[296, 143, 170, 335, 141, 221, 362]",M-CSA,propanediol dehydratase
+M-CSA 495,1dmuB,"[142, 143, 116, 144]",M-CSA,"type II site-specific deoxyribonuclease,  BgII"
+M-CSA 496,1djlA,"[925, 1006, 890]",M-CSA,NAD(P)+ transhydrogenase (Re/Si-specific)
+M-CSA 497,1ycfA,"[25, 81, 228, 85, 83, 148, 167, 195]",M-CSA,nitric-oxide reductase (FMN)
+M-CSA 498,2hgsA,"[369, 151, 125, 144, 146, 450, 368, 305, 364]",M-CSA,glutathione synthase (eukaryotic)
+M-CSA 499,1pjhA,"[70, 158, 126, 101]",M-CSA,"3,2-trans-enoyl-CoA isomerase (peroxisomal)"
+M-CSA 5,1whsA,"[53, 146, 147]",M-CSA,carboxypeptidase D
+M-CSA 5,1whsB,"[338, 397]",M-CSA,carboxypeptidase D
+M-CSA 50,1dbtA,"[60, 62, 215, 33, 123]",M-CSA,orotidine-5'-phosphate decarboxylase
+M-CSA 50,1dbtB,[65],M-CSA,orotidine-5'-phosphate decarboxylase
+M-CSA 500,1e3iA,"[48, 47, 46, 67, 182, 178]",M-CSA,alcohol dehydrogenase (class II)
+M-CSA 502,3es7A,"[162, 164, 246, 193, 221, 297, 42, 45, 90]",M-CSA,galactarate dehydratase (D-threo-forming)
+M-CSA 503,4jn7A,"[242, 292, 189, 191, 216, 265]",M-CSA,galactarate dehydratase (type III)
+M-CSA 504,1qhfA,"[8, 59, 86, 181]",M-CSA,"phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)"
+M-CSA 505,1e0cA,"[231, 232, 233, 230, 234, 235, 236]",M-CSA,thiosulfate sulfurtransferase (prokaryotic)
+M-CSA 506,1fnbA,"[95, 96, 272, 312, 314]",M-CSA,ferredoxin--NADP reductase
+M-CSA 507,1c17L,[61],M-CSA,"H+-transporting two-sector ATPase (F-type, bacterial)"
+M-CSA 507,1c17M,"[214, 206, 210]",M-CSA,"H+-transporting two-sector ATPase (F-type, bacterial)"
+M-CSA 508,1lwsC,"[433, 454, 434, 403, 78, 1, 79, 76, 301]",M-CSA,H+-transporting two-sector ATPase (V-type)
+M-CSA 509,1r76A,"[172, 307]",M-CSA,pectate lyase
+M-CSA 51,1aq2A,"[269, 333, 232, 254, 213, 250, 65, 255]",M-CSA,phosphoenolpyruvate carboxykinase (ATP)
+M-CSA 510,1bixA,"[96, 308, 70, 212, 283, 309, 171, 210]",M-CSA,8-oxoguanine DNA-glycosylase (ExoA family)
+M-CSA 511,1nmwA,"[154, 131, 59, 113, 157]",M-CSA,peptidylprolyl isomerase (PpiC-type)
+M-CSA 512,1eejA,"[95, 98, 101, 125]",M-CSA,protein disulfide-isomerase (DsbC)
+M-CSA 513,1gprA,"[68, 66, 83]",M-CSA,protein-Npi-phosphohistidine---sugar phosphotransferase (type II)
+M-CSA 514,1e2aA,"[78, 80, 82]",M-CSA,protein-Npi-phosphohistidine---sugar phosphotransferase (type III)
+M-CSA 515,1e2tA,"[107, 122, 39, 64, 69]",M-CSA,N-hydroxyarylamine O-acetyltransferase
+M-CSA 516,1qrgA,"[81, 122, 62, 84]",M-CSA,carbonate dehydratase (gamma class)
+M-CSA 516,1qrgAA,"[117, 202, 75]",M-CSA,carbonate dehydratase (gamma class)
+M-CSA 517,1i6pA,"[42, 101, 98, 44, 46]",M-CSA,carbonate dehydratase (beta class)
+M-CSA 518,1r4zA,"[12, 77, 133, 156, 78]",M-CSA,triacylglycerol lipase (EstA)
+M-CSA 519,1tahA,"[17, 88, 263, 295, 291, 87, 285, 287, 241]",M-CSA,triacylglycerol lipase (Pseudomonas family)
+M-CSA 52,1b57A,"[182, 286, 109, 226, 110, 264]",M-CSA,fructose-bisphosphate aldolase (Class II)
+M-CSA 520,1thgA,"[132, 218, 217, 354, 463]",M-CSA,triacylglycerol lipase (type B carboxylestrase)
+M-CSA 521,1ebfA,"[219, 223]",M-CSA,homoserine dehydrogenase
+M-CSA 522,1eh5A,"[116, 289, 233, 115, 41]",M-CSA,palmitoyl[protein] hydrolase (type 1)
+M-CSA 523,1pjaA,"[45, 111, 112, 228, 283]",M-CSA,palmitoyl[protein] hydrolase (type 2)
+M-CSA 524,1z4rA,"[573, 575, 577, 576, 611, 642, 645, 568, 579]",M-CSA,histone acetyltransferase (GCN5 family)
+M-CSA 525,1mj9A,"[304, 338]",M-CSA,histone acetyltransferase (MYST family)
+M-CSA 526,4mdhA,"[186, 158]",M-CSA,malate dehydrogenase (type 2)
+M-CSA 527,1emdA,"[177, 150]",M-CSA,malate dehydrogenase (type 1)
+M-CSA 528,1it4A,"[43, 65, 44, 64, 85]",M-CSA,phospholipase A2 (prokaryotic/fungal)
+M-CSA 529,1cjyA,"[200, 197, 228, 198, 549]",M-CSA,phospholipase A2 (group group IVA)
+M-CSA 53,1d8cA,"[455, 427, 270, 272, 338, 631]",M-CSA,malate synthase
+M-CSA 53,1n8iA,"[339, 462, 633, 434]",M-CSA,malate synthase
+M-CSA 530,1jchA,"[510, 513, 517, 545]",M-CSA,colicin-E3
+M-CSA 531,1xvtA,[169],M-CSA,L-carnitine CoA-transferase
+M-CSA 532,1rhcA,"[108, 39, 43]",M-CSA,secondary-alcohol dehydrogenase (coenzyme-F420)
+M-CSA 533,1bh2A,"[48, 200, 43, 178, 204]",M-CSA,"G-protein alpha subunit, group I (GTPase)"
+M-CSA 534,1vomA,"[181, 236, 237, 186, 233, 182, 457, 459]",M-CSA,myosin ATPase
+M-CSA 535,1efcA,"[24, 84, 25, 61, 61, 21]",M-CSA,protein-synthesizing GTPase (elongation factor Tu)
+M-CSA 536,1g8pA,[289],M-CSA,magnesium chelatase
+M-CSA 537,2bvcA,"[227, 133, 366, 276, 135, 368, 219, 347]",M-CSA,glutamine synthetase (type I)
+M-CSA 537,2bvcF,[54],M-CSA,glutamine synthetase (type I)
+M-CSA 538,1bibA,"[118, 317, 183]",M-CSA,biotin---[acetyl-CoA-carboxylase] ligase
+M-CSA 539,1b7yA,"[178, 218, 149, 261, 204, 314]",M-CSA,phenylalanine---tRNA ligase
+M-CSA 54,1qfeA,"[143, 170, 86]",M-CSA,3-dehydroquinate dehydratase (type I)
+M-CSA 540,1qf6B,"[334, 465, 381, 383, 385, 363, 511]",M-CSA,threonine---tRNA ligase
+M-CSA 541,1u3fA,"[124, 154, 115]",M-CSA,5-formyltetrahydrofolate cyclo-ligase
+M-CSA 542,1jofA,"[196, 212, 274, 148]",M-CSA,"carboxy-cis,cis-muconate cyclase"
+M-CSA 543,1f75A,"[140, 29, 46]",M-CSA,"ditrans,polycis-undecaprenyl-diphosphate synthase [(2E,6E)-farnesyl-diphosphate specific]"
+M-CSA 544,1f6dA,"[213, 215, 246, 117, 131, 95]",M-CSA,UDP-N-acetylglucosamine 2-epimerase
+M-CSA 545,1f2dA,"[269, 295, 51]",M-CSA,1-aminocyclopropane-1-carboxylate deaminase
+M-CSA 546,1eyiA,"[121, 97, 68, 74, 118, 120, 280, 98]",M-CSA,fructose-bisphosphatase
+M-CSA 547,1ey2A,"[335, 292, 341, 371, 365]",M-CSA,"homogentisate 1,2-dioxygenase"
+M-CSA 548,1expA,"[169, 233, 235, 127, 205]",M-CSA,"endo-1,4-beta-xylanase (glycosyl hydrolase 10)"
+M-CSA 549,1exnA,"[131, 153, 155, 201, 204, 26, 68, 128, 86, 83]",M-CSA,exodeoxyribonuclease (lambda-induced)
+M-CSA 55,1gu1A,"[82, 104, 15, 16, 23, 28, 106, 79, 113]",M-CSA,3-dehydroquinate dehydratase (type II)
+M-CSA 550,1fq0A,"[49, 133, 45]",M-CSA,2-dehydro-3-deoxy-phosphogluconate aldolase
+M-CSA 551,1fohA,"[364, 281, 289, 54]",M-CSA,phenol 2-monooxygenase
+M-CSA 552,1fghA,"[101, 100, 644, 447, 642, 165]",M-CSA,aconitate hydratase
+M-CSA 553,1fdyA,"[165, 137]",M-CSA,N-acetylneuraminate lyase
+M-CSA 554,1f8xA,"[7, 98, 72, 92]",M-CSA,nucleoside deoxyribosyltransferase
+M-CSA 555,1f8rA,"[223, 326]",M-CSA,L-amino-acid oxidase
+M-CSA 556,1escA,"[66, 283, 14, 106, 280]",M-CSA,esterase (estA)
+M-CSA 557,1eq2A,"[178, 140, 116]",M-CSA,ADP-glyceromanno-heptose 6-epimerase
+M-CSA 558,1d2tA,"[150, 183, 189, 193]",M-CSA,non-specific acid phosphatases (class A)
+M-CSA 559,1js4A,"[424, 206, 58, 55]",M-CSA,cellulase (GH9)
+M-CSA 56,1ze1A,"[39, 67, 81, 172]",M-CSA,tRNA-pseudouridine synthase
+M-CSA 560,2nlrA,"[203, 120]",M-CSA,cellulase (GH12)
+M-CSA 561,2engA,"[10, 121]",M-CSA,cellulase (GH45)
+M-CSA 562,1aa6A,"[333, 141, 44, 140]",M-CSA,formate dehydrogenase
+M-CSA 563,1kqfA,"[196, 197]",M-CSA,formate dehydrogenase (nitrate-inducible)
+M-CSA 563,1kqfCA,[169],M-CSA,formate dehydrogenase (nitrate-inducible)
+M-CSA 564,1a4yB,"[13, 40, 114]",M-CSA,ribonuclease V
+M-CSA 565,1a79A,"[115, 125, 156]",M-CSA,tRNA-intron lyase
+M-CSA 566,1gcuA,"[96, 97, 123, 126, 170, 171]",M-CSA,biliverdin reductase
+M-CSA 567,1galA,[516],M-CSA,glucose oxidase
+M-CSA 568,1ga8A,"[250, 103, 105, 244, 78, 189, 130, 188]",M-CSA,lipopolysaccharide 3-alpha-galactosyltransferase
+M-CSA 569,1fuqA,[188],M-CSA,fumarate hydratase (class II)
+M-CSA 569,1fuqB,"[318, 324, 331]",M-CSA,fumarate hydratase (class II)
+M-CSA 57,2ahjA,"[109, 114, 112, 113, 113]",M-CSA,nitrile hydratase
+M-CSA 57,2ahjB,"[56, 72, 76]",M-CSA,nitrile hydratase
+M-CSA 570,1fr8A,"[344, 349, 314, 347, 254, 252, 317, 318]",M-CSA,"β-N-acetylglucosaminylglycopeptide β-1,4-galactosyltransferase"
+M-CSA 571,1gdhA,"[240, 269, 287]",M-CSA,glycerate dehydrogenase
+M-CSA 572,1o9iA,"[69, 35, 181, 148, 66, 178]",M-CSA,catalase (manganese dependent)
+M-CSA 573,1iphA,"[392, 128, 201]",M-CSA,catalase (HPII)
+M-CSA 574,1kasA,"[163, 400, 303, 314, 335, 340]",M-CSA,beta-ketoacyl-acyl-carrier-protein synthase II
+M-CSA 575,1jenA,"[67, 68]",M-CSA,adenosylmethionine decarboxylase (eukaryotic)
+M-CSA 575,1jenB,"[229, 243, 82]",M-CSA,adenosylmethionine decarboxylase (eukaryotic)
+M-CSA 576,1j49A,"[260, 265, 297, 236]",M-CSA,D-lactate dehydrogenase
+M-CSA 577,1imaA,"[92, 90, 220, 93, 70, 95]",M-CSA,inositol-phosphate phosphatase
+M-CSA 578,1hrkA,"[76, 98, 92, 340, 347, 164, 165, 263, 343]",M-CSA,ferrochelatase
+M-CSA 579,1hrdA,"[125, 165]",M-CSA,glutamate dehydrogenase
+M-CSA 58,1cjuA,"[396, 440, 397]",M-CSA,adenylate cyclase
+M-CSA 58,1cjuB,"[1029, 1065]",M-CSA,adenylate cyclase
+M-CSA 580,1ghsA,"[231, 279, 282, 288]",M-CSA,"glucan endo-1,3-beta-D-glucosidase"
+M-CSA 581,1fgjA,"[233, 267, 268, 334]",M-CSA,hydroxylamine oxidase
+M-CSA 581,1fgjAB,[467],M-CSA,hydroxylamine oxidase
+M-CSA 582,1m53A,"[295, 241]",M-CSA,isomaltulose synthase
+M-CSA 583,1lnhA,"[518, 523, 709, 857, 713]",M-CSA,linoleate 9S-lipoxygenase
+M-CSA 584,1ldmA,"[193, 106, 169, 166]",M-CSA,L-lactate dehydrogenase
+M-CSA 585,1lbuA,"[161, 154, 197, 189, 194, 195, 192]",M-CSA,zinc D-Ala-D-Ala carboxypeptidase
+M-CSA 586,1lbaA,"[46, 17, 130, 122, 128]",M-CSA,N-acetylmuramoyl-L-alanine amidase
+M-CSA 587,1lamA,"[262, 336]",M-CSA,leucyl aminopeptidase
+M-CSA 588,1kimA,"[162, 225, 220, 222, 163, 62, 83]",M-CSA,thymidine kinase
+M-CSA 589,1kfuA,"[105, 99, 105, 262, 286, 288]",M-CSA,calpain-2
+M-CSA 59,1dqsA,"[264, 275, 152, 194, 271, 287, 268, 250, 260]",M-CSA,3-dehydroquinate synthase
+M-CSA 59,1dqsB,[130],M-CSA,3-dehydroquinate synthase
+M-CSA 590,1idjA,"[239, 154, 176, 236]",M-CSA,pectin lyase A (polysaccharide lyase 1 family)
+M-CSA 591,1hfsA,"[201, 205, 211, 202]",M-CSA,stromelysin 1
+M-CSA 592,3idhA,"[205, 169]",M-CSA,glucokinase
+M-CSA 593,1evyA,"[267, 210]",M-CSA,glycerol-3-phosphate dehydrogenase (NAD+)
+M-CSA 594,1wd8A,"[350, 471, 473, 645]",M-CSA,protein-arginine deiminase
+M-CSA 595,1s2kA,"[53, 136]",M-CSA,scytalidopepsin B
+M-CSA 596,1eb6A,"[128, 132, 143, 106, 129]",M-CSA,deuterolysin
+M-CSA 597,1uchA,"[95, 89, 95, 169, 184]",M-CSA,ubiquitinyl hydrolase 1 (peptidase C12 type)
+M-CSA 598,1dkiA,"[212, 47, 195, 47]",M-CSA,streptopain
+M-CSA 599,1fy2A,"[88, 192, 120, 121, 157]",M-CSA,dipeptidase E
+M-CSA 6,2gh5A,"[197, 58, 63, 66, 201]",M-CSA,glutathione-disulfide reductase
+M-CSA 6,2gh5B,"[467, 472]",M-CSA,glutathione-disulfide reductase
+M-CSA 60,1deaA,"[141, 143, 72, 148]",M-CSA,glucosamine-6-phosphate deaminase
+M-CSA 600,1mhyB,"[114, 147, 144, 243, 209, 246]",M-CSA,methane monooxygenase (soluble)
+M-CSA 601,1mhlC,[95],M-CSA,myeloperoxidase
+M-CSA 601,1mhlD,[239],M-CSA,myeloperoxidase
+M-CSA 602,1kezA,"[259, 169, 143, 142]",M-CSA,6-deoxyerythronolide-B synthase
+M-CSA 603,1jm6A,"[1246, 1247, 1243, 1239]",M-CSA,[pyruvate dehydrogenase (acetyl-transferring)] kinase
+M-CSA 604,1mlvA,[287],M-CSA,[ribulose-bisphosphate carboxylase]-lysine N-methyltransferase
+M-CSA 605,1q6xA,"[95, 108, 334, 550]",M-CSA,choline O-acetyltransferase
+M-CSA 606,1qsgA,"[156, 163]",M-CSA,enoyl-[acyl-carrier-protein] reductase (NADH)
+M-CSA 607,1r16A,"[174, 179, 98]",M-CSA,ADP-ribosyl cyclase
+M-CSA 608,1ds2A,"[195, 214, 193, 195, 102, 57]",M-CSA,streptogrisin B
+M-CSA 609,1ssxA,"[193, 195, 195, 57, 214, 102]",M-CSA,alpha-lytic endopeptidase
+M-CSA 61,1bjpAB,[1],M-CSA,2-hydroxymuconate tautomerase
+M-CSA 61,1bjpB,[39],M-CSA,2-hydroxymuconate tautomerase
+M-CSA 61,1bjpBB,"[61, 50]",M-CSA,2-hydroxymuconate tautomerase
+M-CSA 610,1kyqA,[141],M-CSA,precorrin-2 dehydrogenase
+M-CSA 611,1ushA,"[379, 41, 84, 217, 252, 254, 43, 116, 117, 120, 375, 410]",M-CSA,5'-nucleotidase (bacterial)
+M-CSA 612,1sllA,"[318, 595, 713]",M-CSA,anhydrosialidase
+M-CSA 613,1p1xA,"[102, 167, 201]",M-CSA,deoxyribose-phosphate aldolase
+M-CSA 614,1q3nA,"[26, 60, 250]",M-CSA,3-deoxy-8-phosphooctulonate synthase
+M-CSA 615,2ocpA,"[70, 142]",M-CSA,deoxyguanosine kinase
+M-CSA 616,1fcqA,"[111, 113, 184, 227, 301]",M-CSA,hyaluronoglucosaminidase
+M-CSA 617,1bg6A,"[297, 202]",M-CSA,opine dehydrogenase
+M-CSA 618,1e5qC,[126],M-CSA,"saccharopine dehydrogenase (NADP+, L-glutamate-forming)"
+M-CSA 619,1cf2A,"[140, 219]",M-CSA,glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+M-CSA 62,1reqA,"[244, 610, 243, 608, 89, 604]",M-CSA,methylmalonyl-CoA mutase
+M-CSA 620,1gufA,[79],M-CSA,"enoyl-[acyl-carrier-protein] reductase (NADPH, B-specific)"
+M-CSA 621,1kywA,"[329, 297, 270, 269]",M-CSA,caffeate O-methyltransferase
+M-CSA 622,1uqtA,"[154, 361]",M-CSA,"alpha,alpha-trehalose-phosphate synthase (UDP-forming)"
+M-CSA 623,1r1jA,"[587, 646, 584, 583, 650, 711, 717]",M-CSA,neprilysin
+M-CSA 624,1gcbA,"[73, 73, 67, 369, 392]",M-CSA,bleomycin hydrolase
+M-CSA 625,1ltqA,"[15, 126, 35, 165]",M-CSA,polynucleotide 5'-hydroxyl-kinase
+M-CSA 626,1epwA,"[229, 233, 230, 267, 369]",M-CSA,bontoxilysin
+M-CSA 627,1l6pA,"[68, 70, 71, 42, 103, 109]",M-CSA,protein-disulfide reductase
+M-CSA 628,1ksjA,[70],M-CSA,"small GTPase superfamily, ARF type"
+M-CSA 629,1ndiA,"[107, 120, 343, 554]",M-CSA,carnitine O-acetyltransferase
+M-CSA 63,1cb7A,"[16, 14]",M-CSA,methylaspartate mutase
+M-CSA 63,1cb7B,"[171, 100]",M-CSA,methylaspartate mutase
+M-CSA 630,1j79A,"[16, 18, 102, 139, 177, 250]",M-CSA,dihydroorotase
+M-CSA 631,1agyA,"[188, 175, 120, 42, 121]",M-CSA,cutinase
+M-CSA 632,1jmsA,"[343, 345, 434]",M-CSA,DNA nucleotidylexotransferase
+M-CSA 633,1augA,"[81, 168, 144, 144, 91]",M-CSA,pyroglutamyl-peptidase I
+M-CSA 634,1v0yA,"[170, 202, 448, 473]",M-CSA,phospholipase D
+M-CSA 635,1t7dB,"[278, 88, 90, 90, 145]",M-CSA,signal peptidase I
+M-CSA 636,1uaqA,"[94, 62, 91, 91, 64, 89]",M-CSA,cytosine deaminase (yeast)
+M-CSA 637,1dekA,"[15, 206, 68]",M-CSA,(deoxy)nucleoside-phosphate kinase
+M-CSA 638,1i1iA,"[474, 478, 475, 613, 503]",M-CSA,neurolysin
+M-CSA 639,1mvnA,[175],M-CSA,phosphopantothenoylcysteine decarboxylase
+M-CSA 639,1mvnAA,[90],M-CSA,phosphopantothenoylcysteine decarboxylase
+M-CSA 64,1d6mA,"[7, 328, 330, 105, 8, 103]",M-CSA,DNA topoisomerase (type III)
+M-CSA 640,1l8tA,"[208, 195, 44, 190]",M-CSA,kanamycin kinase
+M-CSA 641,1pwvA,"[690, 686, 735, 687, 728]",M-CSA,anthrax lethal factor endopeptidase
+M-CSA 642,1nsfA,"[550, 550, 549, 603, 604, 549, 708]",M-CSA,vesicle-fusing ATPase
+M-CSA 642,1nsfAD,[631],M-CSA,vesicle-fusing ATPase
+M-CSA 643,1g99A,"[7, 384, 180, 91, 241]",M-CSA,acetate kinase
+M-CSA 644,1nwwA,"[53, 55, 99, 101, 132]",M-CSA,"limonene-1,2-epoxide hydrolase"
+M-CSA 645,1gt7A,"[212, 143, 141, 117]",M-CSA,rhamnulose-1-phosphate aldolase
+M-CSA 645,1gt7B,[171],M-CSA,rhamnulose-1-phosphate aldolase
+M-CSA 646,1p4rA,"[266, 267]",M-CSA,phosphoribosylaminoimidazolecarboxamide formyltransferase
+M-CSA 646,1p4rB,"[592, 431]",M-CSA,phosphoribosylaminoimidazolecarboxamide formyltransferase
+M-CSA 647,1knyA,"[145, 149]",M-CSA,kanamycin nucleotidyltransferase
+M-CSA 647,1knyB,"[52, 50]",M-CSA,kanamycin nucleotidyltransferase
+M-CSA 648,1snnA,"[95, 30, 55, 185]",M-CSA,"3,4-dihydroxy-2-butanone-4-phosphate synthase"
+M-CSA 648,1snnB,"[106, 147]",M-CSA,"3,4-dihydroxy-2-butanone-4-phosphate synthase"
+M-CSA 649,1h54A,[487],M-CSA,maltose phosphorylase
+M-CSA 65,1gimA,"[13, 16, 224, 40, 41]",M-CSA,adenylosuccinate synthase
+M-CSA 650,1qd6C,"[144, 142, 152, 156, 146, 147]",M-CSA,phospholipase A1
+M-CSA 650,1qd6D,[106],M-CSA,phospholipase A1
+M-CSA 651,1ig8A,"[158, 173, 211]",M-CSA,hexokinase (type II)
+M-CSA 652,1nvmA,"[18, 200, 202, 21, 291]",M-CSA,4-hydroxy-2-oxovalerate aldolase
+M-CSA 653,1kzhA,"[177, 82, 146, 203, 204, 206]",M-CSA,diphosphate---fructose-6-phosphate 1-phosphotransferase
+M-CSA 654,1oj4A,"[10, 141]",M-CSA,4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase
+M-CSA 655,1p7mA,"[46, 16, 38]",M-CSA,DNA-3-methyladenine glycosylase I
+M-CSA 656,1kazA,"[199, 10, 175, 71]",M-CSA,adenosinetriphosphatase
+M-CSA 657,1hr6B,"[70, 74, 150, 143, 73]",M-CSA,mitochondrial processing peptidase
+M-CSA 658,1fhlA,"[136, 246, 45]",M-CSA,"arabinogalactan endo-1,4-beta-galactosidase"
+M-CSA 659,1k82I,"[1, 2]",M-CSA,DNA-formamidopyrimidine glycosylase
+M-CSA 66,1daaA,"[145, 31, 201, 177]",M-CSA,D-alanine transaminase
+M-CSA 660,1do6A,"[16, 41, 47, 114, 111, 14, 15]",M-CSA,superoxide reductase
+M-CSA 661,1hdhA,"[318, 13, 14, 51, 113, 115, 55, 211, 317, 375]",M-CSA,arylsulfatase
+M-CSA 662,1bo1A,"[278, 150]",M-CSA,1-phosphatidylinositol-5-phosphate 4-kinase
+M-CSA 663,1rk2A,"[252, 253, 254, 255]",M-CSA,ribokinase
+M-CSA 664,2dhnA,"[100, 22]",M-CSA,dihydroneopterin aldolase
+M-CSA 665,1ez1A,"[279, 267, 363, 286, 287, 160, 162]",M-CSA,Formate-dependent phosphoribosylglycinamide formyltransferase
+M-CSA 666,1mpxA,"[82, 307, 175, 174, 340]",M-CSA,alpha-amino-acid esterase
+M-CSA 667,1pz3A,"[294, 175]",M-CSA,alpha-N-arabinofuranosidase
+M-CSA 668,1lmlA,"[264, 268, 334, 265]",M-CSA,leishmanolysin
+M-CSA 669,1b7bA,"[12, 11, 271, 128, 209]",M-CSA,carbamate kinase
+M-CSA 67,1pjbA,"[95, 93, 74, 117, 15, 269]",M-CSA,alanine dehydrogenase
+M-CSA 670,1jxhA,"[208, 208, 211, 212, 213, 176, 210]",M-CSA,hydroxymethylpyrimidine kinase
+M-CSA 671,1fo6A,"[47, 110, 127, 146, 172, 197]",M-CSA,N-carbamoyl-D-amino-acid hydrolase
+M-CSA 672,1bouB,"[12, 61, 242, 195]",M-CSA,"protocatechuate 4,5-dioxygenase"
+M-CSA 673,1kdgA,"[689, 609, 732]",M-CSA,cellobiose dehydrogenase (acceptor)
+M-CSA 674,1uf7A,"[46, 126, 171]",M-CSA,N-carbamoyl-D-amino-acid hydrolase
+M-CSA 675,1pixA,"[194, 151]",M-CSA,glutaconyl-CoA decarboxylase
+M-CSA 675,1pixB,"[417, 457]",M-CSA,glutaconyl-CoA decarboxylase
+M-CSA 676,1b65A,"[250, 289, 250, 288, 146, 218]",M-CSA,D-stereospecific aminopeptidase (peptidase S58 family)
+M-CSA 677,1g79A,[197],M-CSA,pyridoxal 5'-phosphate synthase
+M-CSA 678,1ht1E,"[1, 1, 45, 33, 124]",M-CSA,HslU---HslV peptidase
+M-CSA 679,1nlnA,"[122, 54, 71, 115, 122]",M-CSA,adenain
+M-CSA 68,1ivhA,"[387, 254, 136, 135]",M-CSA,isovaleryl-CoA dehydrogenase
+M-CSA 680,1nn4A,"[68, 9, 66]",M-CSA,ribose-5-phosphate isomerase
+M-CSA 680,1nn4D,"[99, 134]",M-CSA,ribose-5-phosphate isomerase
+M-CSA 681,1gq8A,"[225, 113, 135, 136, 157]",M-CSA,pectinesterase
+M-CSA 682,8pchA,"[19, 25, 159]",M-CSA,cathepsin H
+M-CSA 683,1k4lA,"[153, 37, 66, 174, 94, 41]",M-CSA,"3,4-dihydroxy-2-butanone-4-phosphate synthase"
+M-CSA 683,1k4lAA,"[99, 136]",M-CSA,"3,4-dihydroxy-2-butanone-4-phosphate synthase"
+M-CSA 684,1qazA,"[192, 68, 191, 239, 246]",M-CSA,mannuronate-specific alginate lyase
+M-CSA 685,1gp5A,"[232, 288, 234, 213]",M-CSA,anthocyanidin synthase
+M-CSA 686,1e1aA,"[229, 21, 120, 175, 287, 37]",M-CSA,diisopropyl-fluorophosphatase
+M-CSA 687,1rozA,"[329, 288]",M-CSA,deoxyhypusine synthase
+M-CSA 687,1rozBA,[137],M-CSA,deoxyhypusine synthase
+M-CSA 688,2odqA,"[541, 487, 659, 659]",M-CSA,classical-complement-pathway C3/C5 convertase
+M-CSA 689,1r6wA,"[133, 161, 190, 213, 235]",M-CSA,o-succinylbenzoate synthase
+M-CSA 69,1lxaA,"[143, 126, 125]",M-CSA,acyl-[acyl-carrier-protein]-UDP-N-acetylglucosamine O-acyltransferase
+M-CSA 690,1ogoA,"[376, 395]",M-CSA,dextranase
+M-CSA 691,1pegA,"[283, 178]",M-CSA,histone-lysine N-methyltransferase (Suvar3-9 subfamily)
+M-CSA 692,1dl5A,[59],M-CSA,protein-L-isoaspartate(D-aspartate) O-methyltransferase
+M-CSA 693,2rnfA,"[40, 12, 116]",M-CSA,ribonuclease 4
+M-CSA 694,1oxaA,"[241, 244, 351, 246, 360]",M-CSA,6-deoxyerythronolide B hydroxylase
+M-CSA 695,2bsxA,"[27, 88, 206]",M-CSA,purine-nucleoside phosphorylase
+M-CSA 695,2bsxAD,[45],M-CSA,purine-nucleoside phosphorylase
+M-CSA 696,1dgkA,"[539, 603, 657]",M-CSA,hexokinase (type I)
+M-CSA 697,2hsaA,"[188, 185, 190]",M-CSA,12-oxophytodienoate reductase
+M-CSA 698,1jrpB,"[730, 310]",M-CSA,xanthine dehydrogenase (bacterial)
+M-CSA 699,1bu7B,"[393, 400, 268]",M-CSA,cytochrome P450 (BM-3)
+M-CSA 7,5icdA,"[160, 307]",M-CSA,isocitrate dehydrogenase (NADP+)
+M-CSA 7,5icdAA,"[283, 230]",M-CSA,isocitrate dehydrogenase (NADP+)
+M-CSA 70,1ef8A,"[110, 66, 140]",M-CSA,methylmalonyl-CoA decarboxylase
+M-CSA 700,1b5dA,"[148, 179, 60]",M-CSA,deoxycytidylate 5-hydroxymethyltransferase
+M-CSA 701,1eu1A,"[114, 116]",M-CSA,dimethylsulfoxide reductase
+M-CSA 702,1pjqA,"[248, 270, 382]",M-CSA,uroporphyrinogen-III C-methyltransferase
+M-CSA 703,1vq1A,"[100, 197, 198]",M-CSA,peptide chain release factor N5-glutamine methyltransferase
+M-CSA 704,1c4tA,[375],M-CSA,dihydrolipoyllysine-residue succinyltransferase
+M-CSA 704,1c4tC,[323],M-CSA,dihydrolipoyllysine-residue succinyltransferase
+M-CSA 705,1pp4A,"[74, 9, 42, 192, 195]",M-CSA,rhamnogalacturonan acetylesterase
+M-CSA 706,1r44A,"[116, 123, 184, 71, 181]",M-CSA,D-Ala-D-Ala dipeptidase
+M-CSA 707,1mt1A,[47],M-CSA,arginine decarboxylase
+M-CSA 707,1mt1E,[52],M-CSA,arginine decarboxylase
+M-CSA 707,1mt1F,[109],M-CSA,arginine decarboxylase
+M-CSA 708,1w27A,"[110, 351, 400]",M-CSA,phenylalanine ammonia-lyase
+M-CSA 709,1dj1A,"[52, 48, 191]",M-CSA,cytochrome-c peroxidase (mono-heme type)
+M-CSA 71,1eugA,"[66, 77, 187, 64]",M-CSA,uridine nucleosidase (family I)
+M-CSA 710,1ra0A,"[313, 61, 63, 214, 217, 156]",M-CSA,cytosine deaminase (bacterial)
+M-CSA 711,2esdA,"[250, 154, 284]",M-CSA,glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+M-CSA 712,1xa8A,"[54, 59, 56]",M-CSA,S-(hydroxymethyl)glutathione synthase
+M-CSA 713,1m54A,[119],M-CSA,cystathionine beta-synthase
+M-CSA 714,1fftA,"[201, 61, 71, 75, 79, 103, 142, 124, 135, 145, 149, 204, 211, 284, 286, 288, 420, 299, 315, 359, 362, 419, 421]",M-CSA,ubiquinol oxidase (H+-transporting)
+M-CSA 715,1l1dB,"[477, 440, 480, 484, 493, 495]",M-CSA,protein-methionine-S-oxide reductase (MsrB)
+M-CSA 716,1im5A,"[52, 54, 60, 71, 101, 133, 94, 129, 133, 10]",M-CSA,nicotinamidase
+M-CSA 717,1x7dA,"[56, 228]",M-CSA,ornithine cyclodeaminase
+M-CSA 718,2fqqA,"[285, 285, 286, 238, 237]",M-CSA,caspase-1
+M-CSA 718,2fqqB,[390],M-CSA,caspase-1
+M-CSA 719,1pd2A,"[14, 8, 104]",M-CSA,prostaglandin-D synthase
+M-CSA 72,2fuaA,"[155, 94, 73, 92]",M-CSA,L-fuculose-phosphate aldolase
+M-CSA 72,2fuaAB,"[209, 113]",M-CSA,L-fuculose-phosphate aldolase
+M-CSA 720,1j2uA,"[34, 120, 45, 36, 183, 122, 178]",M-CSA,creatininase
+M-CSA 721,1yonA,[176],M-CSA,2-dehydropantoate 2-reductase
+M-CSA 722,1ozhA,"[447, 474, 476, 394, 422]",M-CSA,acetolactate synthase (catabolic)
+M-CSA 723,1s01A,"[221, 221, 155, 32, 64]",M-CSA,subtilisin
+M-CSA 724,1jhfA,"[119, 119, 152, 118, 156]",M-CSA,repressor LexA
+M-CSA 725,2acuA,"[48, 110, 43, 77]",M-CSA,aldehyde reductase
+M-CSA 726,1m21A,"[202, 123, 226]",M-CSA,peptide amidase
+M-CSA 726,1oclA,"[62, 131, 150, 155, 158, 152, 153, 154]",M-CSA,peptide amidase
+M-CSA 727,1l7nA,"[13, 100, 12, 11, 144, 171]",M-CSA,phosphoserine phosphatase
+M-CSA 728,1thtA,"[211, 114, 241]",M-CSA,myristoyl-ACP-specific thioesterase
+M-CSA 729,2f9zC,"[27, 21, 44]",M-CSA,protein-glutamate methylesterase (CheD)
+M-CSA 73,1dcoA,"[81, 80, 58, 63, 89, 80, 62]",M-CSA,4a-hydroxytetrahydrobiopterin dehydratase
+M-CSA 730,1kl7A,[124],M-CSA,threonine synthase
+M-CSA 731,1mt5A,"[238, 239, 240, 142, 217, 218, 241]",M-CSA,fatty acid amide hydrolase
+M-CSA 732,1xs1A,"[124, 126, 138]",M-CSA,dCTP deaminase
+M-CSA 732,1xs1C,"[111, 115]",M-CSA,dCTP deaminase
+M-CSA 733,1zoiA,"[256, 98, 97, 122, 31, 227]",M-CSA,esterase
+M-CSA 734,2hi7B,"[41, 44, 48, 104]",M-CSA,protein disulfide oxidoreductase
+M-CSA 735,1ehkA,"[233, 237, 384, 385, 386, 449, 450]",M-CSA,cytochrome-c oxidase (BA3 type)
+M-CSA 735,1ehkB,"[86, 88]",M-CSA,cytochrome-c oxidase (BA3 type)
+M-CSA 736,1x9hA,"[203, 135, 298]",M-CSA,mannose-6-phosphate isomerase
+M-CSA 736,1x9hB,[219],M-CSA,mannose-6-phosphate isomerase
+M-CSA 737,1xrsA,"[263, 370, 298]",M-CSA,"beta-lysine 5,6-aminomutase"
+M-CSA 737,1xrsB,[144],M-CSA,"beta-lysine 5,6-aminomutase"
+M-CSA 738,1o98A,"[261, 336, 403, 407, 462, 12, 445, 444, 62, 154]",M-CSA,"phosphoglycerate mutase (2,3-bisphosphoglycerate-independent)"
+M-CSA 739,1knpA,"[121, 244, 386, 290, 351]",M-CSA,L-aspartate oxidase
+M-CSA 74,1bs1A,"[11, 37, 15, 41, 54, 16, 12, 41, 115]",M-CSA,dethiobiotin synthase
+M-CSA 740,1v04A,"[53, 270, 269, 224, 168, 115, 134]",M-CSA,arylesterase
+M-CSA 741,1kaeA,"[259, 262, 360, 326, 327]",M-CSA,histidinol dehydrogenase
+M-CSA 741,1kaeB,[419],M-CSA,histidinol dehydrogenase
+M-CSA 742,1qz9A,"[226, 375, 129, 201, 227]",M-CSA,kynureninase
+M-CSA 743,1gqgA,"[66, 112, 68, 73]",M-CSA,"quercetin 2,3-dioxygenase"
+M-CSA 744,1am2A,"[197, 198, 198, 72, 74, 75, 1, 53, 196, 187, 182]",M-CSA,GyrA intein (Class 1 intein)
+M-CSA 745,1ab4A,"[78, 32]",M-CSA,DNA topoisomerase (ATP-hydrolysing)
+M-CSA 745,1ab4AA,[122],M-CSA,DNA topoisomerase (ATP-hydrolysing)
+M-CSA 746,1qolB,"[46, 51, 51, 148, 163]",M-CSA,L-peptidase
+M-CSA 747,1l9xB,"[222, 110, 220]",M-CSA,gamma-glutamyl hydrolase
+M-CSA 748,1j7gA,"[80, 79, 78, 80]",M-CSA,D-aminoacyl-tRNA deacylase
+M-CSA 749,1nmlA,[114],M-CSA,cytochrome-c peroxidase (di-heme type)
+M-CSA 75,12asA,"[235, 100, 248, 46, 116, 251, 251]",M-CSA,aspartate-ammonia ligase
+M-CSA 750,1u8vA,"[296, 455, 257, 190, 103, 299, 99, 292]",M-CSA,4-hydroxybutanoyl-CoA dehydratase
+M-CSA 751,1tz3A,"[252, 249, 250, 251]",M-CSA,CDP-diacylglycerol diphosphatase
+M-CSA 752,1vieA,"[32, 67, 68, 69]",M-CSA,dihydrofolate reductase (type II)
+M-CSA 753,2a0nA,"[11, 130]",M-CSA,imidazole glycerol phosphate synthase
+M-CSA 754,1j53A,"[12, 167, 14, 61, 162]",M-CSA,3'-5' exonuclease
+M-CSA 755,1j00A,"[10, 73, 44, 154, 157]",M-CSA,lysophospholipase
+M-CSA 756,1zrzA,"[369, 371, 374]",M-CSA,protein kinase C
+M-CSA 757,1stcA,"[171, 184, 166, 168, 201]",M-CSA,cAMP-dependent protein kinase
+M-CSA 758,1u5uA,"[353, 137, 66, 67]",M-CSA,hydroperoxide dehydratase
+M-CSA 759,1cs1A,"[101, 198, 173]",M-CSA,cystathionine gamma-synthase
+M-CSA 759,1cs1C,[48],M-CSA,cystathionine gamma-synthase
+M-CSA 76,1a26A,"[907, 988, 904]",M-CSA,NAD+ ADP-ribosyltransferase
+M-CSA 760,1l0oA,"[50, 46, 105]",M-CSA,non-specific serine/threonine protein kinase
+M-CSA 761,1iu4A,"[64, 274, 255, 272]",M-CSA,protein-glutamine gamma-glutamyltransferase (bacterial)
+M-CSA 762,1fc4A,"[185, 213, 244]",M-CSA,glycine C-acetyltransferase
+M-CSA 763,2bhgA,"[46, 84, 163, 182]",M-CSA,picornain 3C
+M-CSA 764,2f61B,"[370, 235, 340, 342]",M-CSA,glucosylceramidase
+M-CSA 765,1s20A,[44],M-CSA,3-dehydro-L-gulonate 2-dehydrogenase
+M-CSA 766,1s3iA,"[106, 142]",M-CSA,formyltetrahydrofolate dehydrogenase
+M-CSA 767,1r30A,"[53, 128, 188, 97, 57, 60, 260]",M-CSA,biotin synthase
+M-CSA 768,1qv0A,"[22, 92, 138, 175, 190]",M-CSA,Renilla-luciferin 2-monooxygenase
+M-CSA 769,1zm2F,[553],M-CSA,NAD+---diphthamide ADP-ribosyltransferase
+M-CSA 77,1afwA,"[375, 403, 405, 125]",M-CSA,acetyl-CoA C-acyltransferase
+M-CSA 770,1foaA,"[213, 291]",M-CSA,"alpha-1,3-mannosyl-glycoprotein 2-beta-N-acetylglucosaminyltransferase"
+M-CSA 771,1uk7A,"[34, 104, 224, 103, 252]",M-CSA,2-hydroxymuconate-semialdehyde hydrolase
+M-CSA 772,1u7uA,[210],M-CSA,phosphopantothenate-cysteine ligase
+M-CSA 773,1toxB,[148],M-CSA,NAD+---diphthamide ADP-ribosyltransferase
+M-CSA 774,1obaA,"[10, 92, 94, 182]",M-CSA,lysozyme (glycosyl hydrolase 25 family)
+M-CSA 775,2cy0A,"[64, 100]",M-CSA,shikimate dehydrogenase
+M-CSA 776,1rgqA,"[60, 84, 142, 140]",M-CSA,hepacivirin
+M-CSA 777,1aamA,"[223, 258, 142]",M-CSA,aspartate transaminase
+M-CSA 778,1fwkC,"[183, 130]",M-CSA,homoserine kinase
+M-CSA 779,1gojA,"[91, 93, 94, 94, 95, 95, 96, 96, 235, 238]",M-CSA,plus-end-directed kinesin ATPase
+M-CSA 78,1al6A,"[375, 244, 274, 320, 329]",M-CSA,citrate (Si)-synthase
+M-CSA 780,1hqcA,"[51, 52, 97, 146, 205]",M-CSA,DNA helicase
+M-CSA 781,1p4nA,"[305, 304, 108, 36, 211, 319]",M-CSA,UDP-N-acetylmuramoylpentapeptide-lysine N6-alanyltransferase
+M-CSA 782,1ei5A,"[153, 155, 287, 62, 65]",M-CSA,D-stereospecific aminopeptidase (peptidase S12 family)
+M-CSA 783,1k30A,"[139, 144]",M-CSA,glycerol-3-phosphate O-acyltransferase
+M-CSA 784,1w0hA,"[298, 234, 134, 293, 136]",M-CSA,3'-5' exoribonuclease 1
+M-CSA 785,1psdA,"[292, 269]",M-CSA,phosphoglycerate dehydrogenase
+M-CSA 786,1ge7A,"[117, 121, 130, 118, 133]",M-CSA,peptidyl-Lys metalloendopeptidase
+M-CSA 787,1t0uA,"[8, 80]",M-CSA,uridine phosphorylase
+M-CSA 787,1t0uB,[223],M-CSA,uridine phosphorylase
+M-CSA 788,2e2hD,"[1085, 485, 483, 481]",M-CSA,DNA-directed RNA polymerase
+M-CSA 788,2e2hE,[837],M-CSA,DNA-directed RNA polymerase
+M-CSA 789,1nbfA,"[218, 223, 464, 481]",M-CSA,ubiquitinyl hydrolase 1 (peptidase C19 type)
+M-CSA 79,1d0sA,"[317, 174]",M-CSA,nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase
+M-CSA 790,1ex1A,"[285, 491]",M-CSA,"glucan 1,3-beta-glucosidase"
+M-CSA 791,1fr2B,"[100, 127, 131, 96, 102, 103, 5]",M-CSA,colicin-E9
+M-CSA 792,1qfnA,"[8, 13, 11, 18, 72, 14, 10]",M-CSA,protein disulfide oxidoreductase
+M-CSA 793,1qwnA,"[90, 92, 471, 204, 341]",M-CSA,"mannosyl-oligosaccharide 1,3-1,6-alpha-mannosidase"
+M-CSA 794,1jh6A,"[44, 117, 42, 119, 121, 124]",M-CSA,"2',3'-cyclic-nucleotide 3'-phosphodiesterase"
+M-CSA 795,1wnwB,"[140, 25, 53, 132, 135, 131, 136]",M-CSA,heme oxygenase (biliverdin-producing)
+M-CSA 796,1fa0A,"[224, 154, 89, 102, 100, 215]",M-CSA,polynucleotide adenylyltransferase
+M-CSA 797,1rbaA,"[193, 194, 287, 192, 191, 321, 166]",M-CSA,ribulose-bisphosphate carboxylase (type II)
+M-CSA 798,1rtfB,"[193, 195, 57, 102, 195]",M-CSA,t-plasminogen activator
+M-CSA 799,1f48A,"[18, 22, 45, 23, 21, 20, 502, 21]",M-CSA,arsenite-transporting ATPase
+M-CSA 8,1qprA,"[201, 140, 172, 222]",M-CSA,nicotinate-nucleotide diphosphorylase (carboxylating) (type II)
+M-CSA 8,1qprB,[105],M-CSA,nicotinate-nucleotide diphosphorylase (carboxylating) (type II)
+M-CSA 80,1c3cA,"[141, 140]",M-CSA,adenylosuccinate lyase
+M-CSA 80,1c3cAA,[68],M-CSA,adenylosuccinate lyase
+M-CSA 80,1c3cB,"[263, 268, 275]",M-CSA,adenylosuccinate lyase
+M-CSA 800,1h7xC,"[709, 574, 671]",M-CSA,dihydropyrimidine dehydrogenase (NADP+)
+M-CSA 801,1kwsA,"[196, 281]",M-CSA,galactosylgalactosylxylosylprotein 3-beta-glucuronosyltransferase
+M-CSA 802,1l1rA,"[63, 100]",M-CSA,adenine phosphoribosyltransferase
+M-CSA 803,1o04A,"[192, 268, 302, 399]",M-CSA,aldehyde dehydrogenase (NAD+) (class 2)
+M-CSA 804,1gpjA,"[48, 84]",M-CSA,glutamyl-tRNA reductase
+M-CSA 805,1x9yA,"[243, 237, 243, 340, 360]",M-CSA,staphopain
+M-CSA 806,1cvrA,"[212, 244, 211, 244, 152]",M-CSA,gingipain R
+M-CSA 807,6u7tA,"[43, 126, 144]",M-CSA,adenine DNA glycosylase
+M-CSA 808,1k32A,"[918, 966, 965, 746]",M-CSA,tricorn protease
+M-CSA 809,1b5qC,[62],M-CSA,"polyamine oxidase (propane-1,3-diamine-forming)"
+M-CSA 81,3csmA,"[198, 16, 246, 157, 168, 194, 242]",M-CSA,chorismate mutase (AroQ)
+M-CSA 810,2bifA,"[262, 256, 305, 325, 390, 255]",M-CSA,"fructose-2,6-bisphosphate 2-phosphatase"
+M-CSA 811,1hv9B,[18],M-CSA,UDP-N-acetylglucosamine pyrophosphorylase
+M-CSA 812,1q91A,"[176, 43, 41, 43]",M-CSA,5'-nucleotidase (mitochondrial)
+M-CSA 813,1iydA,[159],M-CSA,branched-chain-amino-acid transaminase
+M-CSA 814,1gloA,"[164, 19, 184, 25, 25]",M-CSA,cathepsin S
+M-CSA 815,1pauA,"[285, 177, 178, 285, 238, 237]",M-CSA,caspase-3
+M-CSA 816,1nw9B,"[287, 238, 237, 287, 178]",M-CSA,caspase-9
+M-CSA 817,1itxA,"[202, 279, 200, 204]",M-CSA,"chitinase (GH18, class II)"
+M-CSA 818,1qtnA,"[360, 318, 317, 360, 258]",M-CSA,caspase-8
+M-CSA 819,2dbtA,"[147, 156, 194]",M-CSA,chitinase C
+M-CSA 82,1jxaA,"[74, 481, 1, 99, 26, 1, 488, 603, 485, 98]",M-CSA,glutamine-fructose-6-phosphate transaminase (isomerizing)
+M-CSA 82,1jxaAA,[504],M-CSA,glutamine-fructose-6-phosphate transaminase (isomerizing)
+M-CSA 820,2bkrA,"[119, 102, 26, 103, 163]",M-CSA,Ulp1 peptidase
+M-CSA 821,1i78A,"[83, 85, 210, 212, 99, 83, 85]",M-CSA,omptin
+M-CSA 822,1i19B,"[121, 475, 477, 311]",M-CSA,cholesterol oxidase
+M-CSA 823,1mqwA,"[93, 97, 76, 64, 142]",M-CSA,ADP-ribose diphosphatase
+M-CSA 824,1g24A,"[174, 214]",M-CSA,mono-ADP-ribosyltransferase C3
+M-CSA 825,1ahbA,"[71, 160, 163]",M-CSA,rRNA N-glycosylase
+M-CSA 826,1un1B,"[85, 87, 89]",M-CSA,xyloglucan:xyloglucosyl transferase
+M-CSA 827,1y9mA,"[41, 241]",M-CSA,fructan beta-fructosidase
+M-CSA 828,7nn9A,"[151, 277, 371, 406, 292]",M-CSA,exo-alpha-sialidase (GH34 Family)
+M-CSA 829,1v0eA,"[581, 350, 325, 596, 647]",M-CSA,endo-alpha-sialidase
+M-CSA 83,1l8sB,"[30, 49, 73, 52, 99, 48, 30, 28, 32]",M-CSA,phospholipase A2 (group IB)
+M-CSA 830,2bx4A,"[145, 143, 145, 41]",M-CSA,ubiquitinyl hydrolase 1 (peptidase C30 type)
+M-CSA 831,1cz1A,"[192, 292]",M-CSA,"glucan 1,3-beta-glucosidase"
+M-CSA 832,1de3A,"[96, 50, 137]",M-CSA,rRNA endonuclease
+M-CSA 833,1qhgA,"[223, 254, 38, 37, 224, 610]",M-CSA,DNA helicase
+M-CSA 834,3ufjA,"[140, 151]",M-CSA,double-stranded uracil-DNA glycosylase
+M-CSA 835,1euuA,"[92, 370, 260]",M-CSA,exo-alpha-sialidase (GH33 Family)
+M-CSA 836,1avqA,"[109, 129, 93, 130, 102, 131]",M-CSA,exodeoxyribonuclease (lambda-induced)
+M-CSA 837,1cz0C,"[119, 98, 105, 61]",M-CSA,intron-encoded endonuclease I-PpoI
+M-CSA 838,1znvB,"[573, 569, 544, 545]",M-CSA,Colicin-E7
+M-CSA 839,1cw0D,"[63, 51, 97, 69]",M-CSA,very short patch repair endonuclease
+M-CSA 84,1b66A,"[42, 133, 48, 50, 23]",M-CSA,6-pyruvoyltetrahydropterin synthase
+M-CSA 84,1b66BB,"[89, 88]",M-CSA,6-pyruvoyltetrahydropterin synthase
+M-CSA 840,1ro7A,"[129, 156, 162, 188]",M-CSA,"alpha-2,3-sialyltransferase"
+M-CSA 841,1pnlB,"[241, 241, 1, 1, 69]",M-CSA,penicillin amidase (peptidase S45 family)
+M-CSA 842,1dqrA,"[271, 210, 216, 272, 357, 518]",M-CSA,glucose-6-phosphate isomerase
+M-CSA 842,1dqrB,[388],M-CSA,glucose-6-phosphate isomerase
+M-CSA 843,1dpgA,"[178, 177, 240]",M-CSA,glucose-6-phosphate dehydrogenase
+M-CSA 844,1dupA,"[29, 73, 71, 80]",M-CSA,dUTP diphosphatase
+M-CSA 844,1dupAA,[90],M-CSA,dUTP diphosphatase
+M-CSA 845,1dw9A,[122],M-CSA,cyanase
+M-CSA 845,1dw9D,"[99, 96]",M-CSA,cyanase
+M-CSA 846,1dxeA,"[75, 153, 179, 50]",M-CSA,2-dehydro-3-deoxyglucarate aldolase
+M-CSA 846,1dxeAA,[89],M-CSA,2-dehydro-3-deoxyglucarate aldolase
+M-CSA 847,1ehyA,"[108, 152, 107, 275, 38, 246, 215]",M-CSA,epoxide hydrolase
+M-CSA 848,1eluA,"[223, 360, 199, 114, 197, 200]",M-CSA,L-cysteine/cystine lyase
+M-CSA 849,1su4A,"[703, 351, 707]",M-CSA,Ca(II)-transporting ATPase
+M-CSA 85,1b93A,"[19, 71, 91, 98, 101, 66]",M-CSA,methylglyoxal synthase
+M-CSA 85,1b93C,[107],M-CSA,methylglyoxal synthase
+M-CSA 850,1euyB,"[34, 270, 260]",M-CSA,glutamine---tRNA ligase
+M-CSA 851,1gp1A,"[45, 158, 80]",M-CSA,glutathione peroxidase
+M-CSA 852,1goxA,"[230, 106, 129, 155, 254]",M-CSA,(S)-2-hydroxy-acid oxidase
+M-CSA 853,1g64A,"[39, 37, 93, 43, 41, 128, 42, 91]",M-CSA,"cob(I)yrinic acid a,c-diamide adenosyltransferase"
+M-CSA 853,1g64B,[51],M-CSA,"cob(I)yrinic acid a,c-diamide adenosyltransferase"
+M-CSA 854,1ohvA,"[189, 298, 329]",M-CSA,4-aminobutyrate transaminase
+M-CSA 854,1ohvB,[353],M-CSA,4-aminobutyrate transaminase
+M-CSA 855,1i29A,"[203, 226, 123, 200, 364]",M-CSA,cysteine desulfurase
+M-CSA 856,1inpA,"[79, 54, 153, 156, 317, 155, 158]",M-CSA,"inositol-1,4-bisphosphate 1-phosphatase"
+M-CSA 857,1qb4A,"[506, 543, 138, 581, 713, 396]",M-CSA,phosphoenolpyruvate carboxylase
+M-CSA 858,1mrqA,"[50, 55, 84, 117]",M-CSA,indanol dehydrogenase
+M-CSA 859,1nf9A,"[38, 37, 122]",M-CSA,isochorismatase
+M-CSA 86,1bg0A,"[314, 126, 229, 271, 273, 309, 225, 280]",M-CSA,arginine kinase
+M-CSA 860,1ordA,"[223, 316, 355]",M-CSA,ornithine decarboxylase
+M-CSA 861,4mupA,[240],M-CSA,D-galactarolactone isomerase
+M-CSA 862,1ndhA,"[66, 49, 245, 65]",M-CSA,cytochrome-b5 reductase
+M-CSA 863,1nhxA,"[235, 264, 244, 286, 288, 311, 87, 405]",M-CSA,phosphoenolpyruvate carboxykinase (GTP)
+M-CSA 864,1oacA,"[466, 524, 526, 689, 369, 383]",M-CSA,primary-amine oxidase
+M-CSA 865,1oasA,"[41, 272]",M-CSA,cysteine synthase
+M-CSA 866,1l7aA,"[181, 182, 269, 298, 91]",M-CSA,cephalosporin-C deacetylase
+M-CSA 867,1oe8A,"[10, 21]",M-CSA,Glutathione S-transferase class-μ
+M-CSA 867,1xw6A,"[42, 6, 107]",M-CSA,Glutathione S-transferase class-μ
+M-CSA 868,1ofgA,"[129, 217]",M-CSA,glucose-fructose oxidoreductase
+M-CSA 869,1og1A,"[147, 159, 184, 189]",M-CSA,NAD+---protein-arginine ADP-ribosyltransferase
+M-CSA 87,1fwjC,"[217, 360, 320, 134, 136, 246, 272, 219, 221, 336]",M-CSA,urease
+M-CSA 870,1oh9A,"[8, 162, 11, 45, 217]",M-CSA,acetylglutamate kinase
+M-CSA 870,4usjA,"[41, 216, 196, 44, 76, 98, 255]",M-CSA,acetylglutamate kinase
+M-CSA 871,1okgA,"[253, 61, 75, 255]",M-CSA,3-mercaptopyruvate sulfurtransferase
+M-CSA 872,1or8A,"[51, 293, 144, 153]",M-CSA,type I protein arginine methyltransferase
+M-CSA 873,1oroA,"[105, 103]",M-CSA,orotate phosphoribosyltransferase
+M-CSA 874,1otgA,"[72, 2, 41, 36]",M-CSA,5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+M-CSA 875,1oygA,"[164, 86, 247, 342]",M-CSA,levansucrase
+M-CSA 876,1p3dA,"[130, 173, 129]",M-CSA,UDP-N-acetylmuramate---L-alanine ligase
+M-CSA 877,1pbgA,"[160, 375]",M-CSA,6-phospho-beta-galactosidase
+M-CSA 878,1pgsA,"[118, 60, 206]",M-CSA,peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
+M-CSA 879,1pj5A,"[225, 259, 552]",M-CSA,dimethylglycine oxidase (tetrahydrofolate utilising)
+M-CSA 88,1hxqA,"[164, 52, 55, 153, 161, 166, 168, 164, 115, 166]",M-CSA,UDP-glucose-hexose-1-phosphate uridylyltransferase
+M-CSA 880,1pmiA,"[304, 138, 285, 310, 113, 136, 109, 111]",M-CSA,mannose-6-phosphate isomerase (type I)
+M-CSA 881,1pudA,"[280, 318, 320, 323, 349, 102]",M-CSA,tRNA-guanine transglycosylase
+M-CSA 882,1qmhA,"[14, 309]",M-CSA,RNA-3'-phosphate cyclase
+M-CSA 883,2dlnA,"[272, 150, 255, 257, 270, 15, 276, 216]",M-CSA,D-alanine---D-alanine ligase
+M-CSA 884,1sesA,"[345, 348, 386, 256, 271]",M-CSA,serine---tRNA ligase
+M-CSA 885,2cjaA,"[355, 336, 461, 338, 416, 432, 347, 435, 468, 306]",M-CSA,Serine-tRNA ligase (archaeal)
+M-CSA 886,1tdjA,"[62, 315]",M-CSA,threonine ammonia-lyase (biosynthetic)
+M-CSA 887,1qd1A,[82],M-CSA,glutamate formimidoyltransferase
+M-CSA 888,2abkA,"[120, 138]",M-CSA,8-oxoguanine DNA-glycosylase (Nth/MutY family)
+M-CSA 889,2pgdA,"[186, 128, 183, 187, 190]",M-CSA,phosphogluconate dehydrogenase (decarboxylating)
+M-CSA 89,1ps1A,"[230, 223, 227, 157, 219, 308, 309, 84, 76, 77, 173, 226, 80]",M-CSA,pentalenene synthase
+M-CSA 890,1yveC,"[315, 319, 252]",M-CSA,ketol-acid reductoisomerase
+M-CSA 891,1ybvA,"[223, 164, 178, 182]",M-CSA,Tetrahydroxynaphthalene reductase
+M-CSA 892,2dorA,"[43, 130]",M-CSA,dihydroorotate dehydrogenase (fumarate)
+M-CSA 893,3mddA,[376],M-CSA,medium-chain acyl-CoA dehydrogenase
+M-CSA 894,1tmoA,"[149, 118]",M-CSA,trimethylamine-N-oxide reductase (cytochrome c)
+M-CSA 895,2npxA,"[10, 42, 41, 303]",M-CSA,NADH peroxidase
+M-CSA 896,2pecA,"[166, 170, 129, 131, 218]",M-CSA,pectate lyase C (polysaccharide lyase 1 family)
+M-CSA 897,1pviC,"[70, 58, 68]",M-CSA,type II site-specific deoxyribonuclease PvuII
+M-CSA 898,1qamA,"[104, 163, 38, 59, 101]",M-CSA,23S rRNA (adenine2085-N6)-dimethyltransferase
+M-CSA 899,1qbaA,"[539, 540]",M-CSA,beta-N-acetylhexosaminidase
+M-CSA 899,2gjxA,"[322, 323]",M-CSA,beta-N-acetylhexosaminidase
+M-CSA 9,5a1iA,"[57, 32, 29, 31, 181, 250, 258, 259, 264, 265, 285, 289, 70, 291]",M-CSA,methionine adenosyltransferase
+M-CSA 90,1b3rA,"[77, 364, 360, 300, 130, 185, 189, 190, 194, 54, 155, 82, 180, 352]",M-CSA,adenosylhomocysteinase
+M-CSA 900,1qe3A,"[399, 310, 189, 106, 107, 190]",M-CSA,para-nitrobenzyl esterase
+M-CSA 901,1qfmA,"[473, 554, 641, 680]",M-CSA,prolyl oligopeptidase
+M-CSA 902,2nacA,"[146, 284, 313, 332]",M-CSA,NAD-dependent formate dehydrogenase
+M-CSA 903,1nirA,"[50, 47, 88, 51, 327, 369]",M-CSA,nitrite reductase (cytochrome cd1 type)
+M-CSA 904,1qgxA,"[142, 144, 145, 72, 49, 147, 294]",M-CSA,"3'(2'),5'-bisphosphate nucleotidase"
+M-CSA 905,1qhoA,"[228, 256, 329]",M-CSA,"glucan 1,4-alpha-maltohydrolase"
+M-CSA 906,1qibA,"[211, 201, 205, 202]",M-CSA,gelatinase A
+M-CSA 907,1rblA,"[334, 204, 175, 203, 201, 294]",M-CSA,ribulose-bisphosphate carboxylase (type I)
+M-CSA 908,1rtuA,"[62, 101, 85, 41]",M-CSA,ribonuclease U2
+M-CSA 909,1rvvA,[88],M-CSA,"6,7-dimethyl-8-ribityllumazine synthase"
+M-CSA 91,1brwA,"[161, 168, 82, 183, 187]",M-CSA,pyrimidine-nucleoside phosphorylase
+M-CSA 910,1stdA,"[50, 30, 31, 110, 85]",M-CSA,scytalone dehydratase
+M-CSA 911,1szjA,"[149, 176]",M-CSA,glyceraldehyde-3-phosphate dehydrogenase (phosphorylating) (type I)
+M-CSA 912,1tyfA,"[97, 122, 68, 171, 98]",M-CSA,endopeptidase Clp
+M-CSA 913,1uasA,"[130, 185]",M-CSA,alpha-galactosidase
+M-CSA 914,1uroA,"[50, 37, 41, 86, 164]",M-CSA,uroporphyrinogen decarboxylase
+M-CSA 915,1vidA,"[141, 169, 170, 144, 199]",M-CSA,catechol O-methyltransferase
+M-CSA 916,4z71A,"[89, 52, 8, 57, 84, 42]",M-CSA,inorganic diphosphatase
+M-CSA 917,1xgmA,"[82, 153, 93, 280, 161, 187]",M-CSA,methionyl aminopeptidase
+M-CSA 918,5cnvA,"[225, 437, 439, 441, 462, 731, 730]",M-CSA,ribonucleoside-diphosphate reductase (class I)
+M-CSA 918,5cnvG,"[122, 237, 115]",M-CSA,ribonucleoside-diphosphate reductase (class I)
+M-CSA 919,1xtcA,"[110, 7, 61, 112]",M-CSA,NAD+---diphthamide ADP-ribosyltransferase
+M-CSA 92,1dliA,"[204, 260, 264, 145, 118, 208]",M-CSA,UDP-glucose 6-dehydrogenase
+M-CSA 920,2hwgA,"[189, 502, 431, 455]",M-CSA,phosphoenolpyruvate---protein phosphotransferase
+M-CSA 921,206lA,"[20, 11]",M-CSA,lysozyme (glycosyl hydrolase 24 family)
+M-CSA 922,1mahA,"[334, 447, 203, 121, 122, 204, 295, 338]",M-CSA,acetylcholinesterase
+M-CSA 923,2acyA,"[23, 41]",M-CSA,acylphosphatase
+M-CSA 924,2ayhA,"[105, 109]",M-CSA,licheninase (glycosyl hydrolase 16 family)
+M-CSA 925,2biiB,"[271, 272, 139]",M-CSA,Nitrate reductase [NADH]
+M-CSA 926,2ebnA,"[130, 132]",M-CSA,mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+M-CSA 927,2fokA,"[450, 467, 469]",M-CSA,type II site-specific deoxyribonuclease FokI
+M-CSA 928,2nmtA,"[169, 455, 205, 170, 171]",M-CSA,glycylpeptide N-tetradecanoyltransferase
+M-CSA 929,2oatA,"[263, 177, 292]",M-CSA,ornithine aminotransferase
+M-CSA 93,1dqaA,"[691, 767]",M-CSA,hydroxymethylglutaryl-CoA reductase (NADPH)
+M-CSA 93,1dqaB,"[559, 866]",M-CSA,hydroxymethylglutaryl-CoA reductase (NADPH)
+M-CSA 931,2pthA,"[68, 114, 93, 20]",M-CSA,aminoacyl-tRNA hydrolase
+M-CSA 932,2tdtAA,"[189, 166]",M-CSA,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"
+M-CSA 932,2tdtAB,[141],M-CSA,"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase"
+M-CSA 933,2tplA,"[448, 257, 124, 123, 214, 381]",M-CSA,tyrosine phenol-lyase
+M-CSA 933,2tplB,[71],M-CSA,tyrosine phenol-lyase
+M-CSA 934,3claA,"[195, 18, 199]",M-CSA,chloramphenicol O-acetyltransferase
+M-CSA 934,3claAB,[174],M-CSA,chloramphenicol O-acetyltransferase
+M-CSA 935,3nosA,"[361, 184, 187, 356]",M-CSA,nitric-oxide synthase
+M-CSA 936,3pcaB,"[457, 447, 408, 460, 462]",M-CSA,"protocatechuate 3,4-dioxygenase"
+M-CSA 937,7odcA,"[197, 69, 274]",M-CSA,ornithine decarboxylase
+M-CSA 938,3rfaB,"[118, 129, 105, 125, 132, 355]",M-CSA,adenosine C2 methyltransferase (RlmN)
+M-CSA 939,3cmmA,"[781, 782, 600, 601, 603]",M-CSA,E2 ubiquitin-conjugating enzyme
+M-CSA 94,1wabA,"[47, 74, 104, 192, 195]",M-CSA,1-alkyl-2-acetylglycerophosphocholine esterase
+M-CSA 940,4h2hA,"[163, 193, 218, 241, 320, 265]",M-CSA,4-hydroxyproline betaine 2-epimerase
+M-CSA 941,3gdpB,"[457, 459, 497, 328, 361, 496]",M-CSA,(R)-mandelonitrile lyase
+M-CSA 942,2olnA,"[53, 355, 276, 101, 321, 358, 258]",M-CSA,NikD
+M-CSA 943,4njkA,"[49, 50, 25, 51, 31, 46, 116, 204]",M-CSA,7-carboxy-7-deazaguanine synthase
+M-CSA 944,3fnlA,"[108, 110, 184, 186, 188, 190, 258, 351, 105]",M-CSA,Lactoperoxidase
+M-CSA 945,3c2eA,[144],M-CSA,nicotinate-nucleotide pyrophosphorylase (carboxylating) (type II)
+M-CSA 947,1u1zA,"[49, 55, 58, 59]",M-CSA,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+M-CSA 947,1u1zB,[63],M-CSA,3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+M-CSA 948,1m3sA,"[57, 60, 160]",M-CSA,3-hexulose-6-phosphate isomerase
+M-CSA 948,1m3sB,"[152, 149, 88, 46]",M-CSA,3-hexulose-6-phosphate isomerase
+M-CSA 949,4xb6D,"[266, 244, 32, 241, 272]",M-CSA,alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase
+M-CSA 95,1fuiA,"[337, 361, 528]",M-CSA,L-fucose isomerase
+M-CSA 950,3makA,[10],M-CSA,DDT-dehydrochlorinase
+M-CSA 951,4mhxA,"[31, 273, 32, 282, 181, 74, 123, 274, 125]",M-CSA,N-sulfoglucosamine sulfohydrolase
+M-CSA 952,2hw4A,"[54, 53, 94, 96, 78, 21]",M-CSA,phosphohistidine phosphatase
+M-CSA 953,1deuA,"[22, 31, 200, 180]",M-CSA,cathepsin X
+M-CSA 954,3wqlB,"[34, 38, 90, 51]",M-CSA,isotuberculosinol synthase
+M-CSA 955,3wqlB,"[51, 34]",M-CSA,tuberculosinol synthase
+M-CSA 956,2zr8A,"[82, 57, 212, 214, 308, 208]",M-CSA,L-serine ammonia-lyase
+M-CSA 957,1tkkA,"[162, 191, 219, 244, 268]",M-CSA,L-Ala-D/L-Glu epimerase
+M-CSA 958,2p8bA,"[191, 218, 243, 163, 267]",M-CSA,N-succinylamino acid racemase (type 2)
+M-CSA 959,3dg6A,"[162, 191, 294, 217, 242, 266]",M-CSA,muconate cycloisomerase (anti)
+M-CSA 96,1chmA,"[358, 232, 262]",M-CSA,creatinase
+M-CSA 960,2qjjA,"[147, 159, 210, 212, 236, 262, 283, 339, 402]",M-CSA,mannonate dehydratase
+M-CSA 961,2hxtA,"[301, 351, 324, 248, 220, 274]",M-CSA,L-fuconate dehydratase
+M-CSA 962,3d47A,"[226, 252, 280, 329, 302, 349]",M-CSA,L-rhamnonate dehydratase
+M-CSA 963,4eayA,"[298, 351, 352, 368, 271, 233]",M-CSA,mannonate dehydratase (uxuA)
+M-CSA 964,1g2iA,"[100, 101, 120, 71, 70]",M-CSA,intracellular protease
+M-CSA 964,1g2iC,[474],M-CSA,intracellular protease
+M-CSA 965,5vsmA,"[84, 88, 91]",M-CSA,Viperin
+M-CSA 966,4x9eA,"[69, 268, 118, 117]",M-CSA,dGTPase
+M-CSA 966,4x9eB,[442],M-CSA,dGTPase
+M-CSA 967,3uxjA,"[194, 201, 233, 197, 234]",M-CSA,NADPH-dependent 7-cyano-7-deazaguanine reductase
+M-CSA 968,4uhxA,"[1270, 893]",M-CSA,aldehyde oxidase
+M-CSA 969,4dgkA,"[149, 152, 148, 31]",M-CSA,Phytoene desaturase (lycopene-forming)
+M-CSA 97,1cttA,"[132, 102, 104, 129]",M-CSA,cytidine deaminase
+M-CSA 970,3vmtA,"[100, 132, 136, 131]",M-CSA,Peptidoglycan glycosyltransferase
+M-CSA 971,2de2A,"[27, 70, 60, 73, 25]",M-CSA,2'-hydroxybiphenyl-2-sulfinate desulfinase
+M-CSA 972,2vz9A,"[1037, 1033, 878, 888, 1003, 885]",M-CSA,3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+M-CSA 973,3x0yA,"[92, 96, 129, 391, 163, 388]",M-CSA,DszC protein
+M-CSA 974,4pivA,"[2021, 2034, 1995, 2038]",M-CSA,fatty acid synthase - β-ketoreductase (KR)
+M-CSA 975,4ecsA,"[61, 55, 52, 116, 113, 231, 13, 115, 14]",M-CSA,DNA polymerase eta
+M-CSA 976,2qmjA,"[542, 600, 443, 366, 444, 214, 406, 526, 539, 327]",M-CSA,α‑glucosidase maltase-glucoamylase
+M-CSA 977,2ar8A,"[79, 346]",M-CSA,tryptophan 7-halogenase
+M-CSA 978,3nyeA,"[1053, 1249, 1087, 1048, 1045, 1046]",M-CSA,D-arginine dehydrogenase
+M-CSA 979,3mvfA,"[59, 130, 30]",M-CSA,nitrite dismutase
+M-CSA 98,1bszC,"[1050, 1045, 1090, 1133, 1132, 1136, 1091]",M-CSA,peptide deformylase
+M-CSA 980,1dj7A,"[86, 85, 87, 57, 55, 76, 74]",M-CSA,ferredoxin:thioredoxin reductase
+M-CSA 981,5odiB,"[153, 193, 194, 234, 231, 41, 42, 9, 78, 81, 154]",M-CSA,ferredoxin:CoB-CoM heterodisulfide reductase
+M-CSA 982,2bleA,"[186, 188, 289]",M-CSA,GMP reductase
+M-CSA 983,2imeA,"[11, 179, 182, 181, 168]",M-CSA,2-hydroxychromene-2-carboxylate isomerase
+M-CSA 984,4e5kB,"[53, 292, 237]",M-CSA,phosphonate dehydrogenase
+M-CSA 985,5my0C,"[683, 499, 582, 581]",M-CSA,acyl-carrier-protein S-acetyltransferase
+M-CSA 986,4v2kA,"[123, 119, 127, 109]",M-CSA,Thiosulfate dehydrogenase
+M-CSA 987,3amzA,"[1261, 802, 880]",M-CSA,xanthine oxidase
+M-CSA 988,3shdI,"[55, 51, 23, 119]",M-CSA,Nudix hydrolase (YmfB)
+M-CSA 989,4e7kA,"[185, 128, 221]",M-CSA,Retroviral integrase
+M-CSA 99,1g72A,"[297, 255, 171]",M-CSA,methanol dehydrogenase (cytochrome c)
+M-CSA 990,5dqrD,"[237, 417, 262, 332]",M-CSA,7-hydroxymethyl chlorophyll A reductase (HCAR)
+M-CSA 991,4s38A,[232],M-CSA,4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (IspG)
+M-CSA 992,4qroG,"[164, 8, 287, 10]",M-CSA,Resorcylate decarboxylase
+M-CSA 993,1pgtA,[7],M-CSA,Glutathione S-transferase A
+M-CSA 993,1pkwA,"[15, 9]",M-CSA,Glutathione S-transferase A
+M-CSA 994,4bzcA,"[366, 312, 311, 167, 206, 207, 233, 210, 215, 218, 319, 149]",M-CSA,deoxynucleoside triphosphate triphosphohydrolase SAMHD1
+M-CSA 995,2et1A,"[75, 85, 139, 90, 88, 137, 95, 149, 77]",M-CSA,oxalate oxidase
+M-CSA 996,4l1gC,"[131, 135, 81, 225, 80, 171]",M-CSA,Peptidoglycan-N-acetylglucosamine deacetylase Bc1960
+M-CSA 997,6fkwA,"[256, 301, 172, 299]",M-CSA,lanthanide-dependent methanol dehydrogenase
+M-CSA 998,5g0iA,"[363, 193, 192, 228, 232, 323, 230]",M-CSA,histone deacetylase 6 enzyme (HDAC6)
+M-CSA 999,1t8uA,"[189, 186, 184, 215, 162, 368]",M-CSA,heparan sulfate glucosamine 3-O-sulfotransferase
