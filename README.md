@@ -15,10 +15,12 @@ To install, run the following script on a GPU-enabled machine. To install for CP
 
 Download CSA reference data and precomputed embeddings for AlphaFoldDB datasets (human and dark proteomes) from [Zenodo](https://zenodo.org/record/).
 
-
+CSA data (required):
 * `csa_function_sets_nn.pkl`: function sets dictionary
 * `csa_site_db_nn.pkl`: embeddings database
 * `function_score_dists.pkl`: function-specific background distributions
+
+AlphaFoldDB precomputed embeddings (optional):
 * `af2_human_lmdb.zip`: AF2 human proteome embeddings in LMDB format
 * `af2_dark_hernandez_lmdb.zip`: AF2 dark proteome embeddings from [Barrio-Hernandez et al.](http://dx.doi.org/10.1038/s41586-023-06510-w) in LMDB format
 * `af2_dark_durairaj_lmdb.zip`: AF2 human proteome embeddings from [Durairaj et al.](http://dx.doi.org/10.1038/s41586-023-06622-3) in LMDB format
